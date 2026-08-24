@@ -1,0 +1,14 @@
+[
+  {
+    "lookup": "HollyRidgeElementary",
+    "tag": "HRES",
+    "calname": "Holly Ridge Elementary Lunch",
+    "slug": "holly-ridge-elementary"
+  },
+  {
+    "lookup": "HollyRidgeMiddle",
+    "tag": "HRMS",
+    "calname": "Holly Ridge Middle Lunch",
+    "slug": "holly-ridge-middle"
+  }
+]

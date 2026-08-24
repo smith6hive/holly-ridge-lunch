@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//smith6hive//holly-ridge-lunch//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holly Ridge Middle Lunch
+NAME:Holly Ridge Middle Lunch
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:hrms-2026-08-17@holly-ridge-lunch
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Tangeri
+ ne Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetables: 
+ Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Blue
+  Raspberry Slushie\, 100% Juice Kiwi Strawberry Slushie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-18@holly-ridge-lunch
+DTSTAMP:20260818T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Beef & Cheddar Soft Tacos\nVegetables: Street Corn\, Salsa\n
+ Fresh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-19@holly-ridge-lunch
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
+ le Baked Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: S
+ avory Green Beans\nFruits: 100% Apple Juice\nFresh Vegetables: Fresh Marin
+ ated Tomatoes\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-20@holly-ridge-lunch
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Plant Based 3 Bean Chili with Cheddar Cheese\, Hearty Beef &
+  Bean Chili\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable 
+ Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Fresh Cucumb
+ er Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-21@holly-ridge-lunch
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Cheez-It C
+ aesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-24@holly-ridge-lunch
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Honey S
+ riracha Chicken Bites\nGrab and go: Oven Roasted Turkey & Cheese Box\, Hum
+ mus & String Cheese Box\, Salsa & String Cheese Box\nGrains: Steamed Brown
+  Rice\, Fresh Baked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginge
+ r Glazed Carrots\nFresh Fruits: Fresh Oranges\nProtein: Strawberry Banana 
+ Yogurt
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-25@holly-ridge-lunch
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Mini Cheese Quesadillas\nGrab and go: Salsa & String Cheese 
+ Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\, Stra
+ wberry Banana Yogurt Box\nVegetables: Ranch Style Pinto Beans\, Chili Spic
+ ed Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-26@holly-ridge-lunch
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza / Hamburger
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
+ er on Brioche Bun\, Cheeseburger on Brioche Bun\nGrab and go: Salsa & Stri
+ ng Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese 
+ Box\, Strawberry Banana Yogurt Box\nVegetables: Baked Emoticon Potatoes\nF
+ ruits: 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-27@holly-ridge-lunch
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Broccoli Alfredo Pasta\nGrab and go: Salsa & String Cheese B
+ ox\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\, Straw
+ berry Banana Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVegetables: BB
+ Q Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Creamy Coles
+ law
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-28@holly-ridge-lunch
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Tur
+ key & Cheese Box\, Hummus & String Cheese Box\, Strawberry Banana Yogurt B
+ ox\nVegetables: Garlic Green Beans\, Steamed Broccoli\nFruits: Berry Medle
+ y Cup\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-08-31@holly-ridge-lunch
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
+ hicken Bites\, Vanilla Yogurt & Strawberry Parfait\, Vanilla Yogurt & Blue
+ berry Parfait\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Turke
+ y & Cheese Box\, Hummus & String Cheese Box\nGrains: Fresh Baked Dinner Ro
+ ll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFruits: 
+ Applesauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-01@holly-ridge-lunch
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet / Creamy Spinach Dip
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Strawberry Parfait\, V
+ anilla Yogurt & Fresh Blueberry Parfait\nGrab and go: Salsa & String Chees
+ e Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\nGra
+ ins: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: 
+ Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-02@holly-ridge-lunch
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
+ urger Quesadillas\, Vanilla Yogurt & Strawberry Parfait\nGrab and go: Sals
+ a & String Cheese Box\, Hummus & String Cheese Box\nVegetables: Baked Emot
+ icon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cuc
+ umber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-03@holly-ridge-lunch
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Chicken & Vegetable Dumplings\, Vanilla Yogurt & Strawberry 
+ Parfait\nGrab and go: Salsa & String Cheese Box\, Hummus & String Cheese B
+ ox\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mi
+ xed Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-04@holly-ridge-lunch
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\, Vanilla Yogurt & Strawberry Parfait\nGrab and go: Salsa 
+ & String Cheese Box\, Hummus & String Cheese Box\nVegetables: Creamy Spina
+ ch\nFruits: Diced Peach Cup\nFresh Vegetables: Sugar Roasted Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-08@holly-ridge-lunch
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet / Hatch Chili Queso
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hatch Chili Queso\, Scratch Made Pimento Cheese & Crackers\,
+  Vanilla Yogurt & Strawberry Parfait\nGrab and go: Salsa & String Cheese B
+ ox\, Hummus & String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVeget
+ ables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-09@holly-ridge-lunch
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
+ le Baked Macaroni & Cheese\, Vanilla Yogurt & Strawberry Parfait\nGrab and
+  go: Salsa & String Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus
+  & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed
+  Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-10@holly-ridge-lunch
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Plant Based 3 Bean Chili with Cheddar Cheese\, Scratch Made 
+ Pimento Cheese & Crackers\, Vanilla Yogurt & Strawberry Parfait\nGrab and 
+ go: Salsa & String Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus 
+ & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
+ getable Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quic
+ k Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-11@holly-ridge-lunch
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\, Scratch Made Pimento Cheese & Crackers\, Vanilla Yogurt 
+ & Strawberry Parfait\nGrab and go: Salsa & String Cheese Box\, Oven Roaste
+ d Turkey & Cheese Box\, Hummus & String Cheese Box\nFresh Fruits: Fresh Go
+ lden Delicious Apples\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Bab
+ y Carrots\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-14@holly-ridge-lunch
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Honey S
+ riracha Chicken Bites\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Rol
+ l\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFruits: Appl
+ esauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-15@holly-ridge-lunch
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet / Beef Nachos
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Beef Nachos\nGrains: Whole Grain Tortilla Chips\nVegetables:
+  Ranch Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend Jui
+ ce\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-16@holly-ridge-lunch
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Double 
+ Cheeseburger on Brioche Bun\nVegetables: Baked Emoticon Potatoes\nFruits: 
+ 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-17@holly-ridge-lunch
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Broccoli Alfredo Pasta\nGrains: Garlic Butter Dinner Roll\nV
+ egetables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables:
+  Creamy Coleslaw
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-18@holly-ridge-lunch
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
+  Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 
+ 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, F
+ ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
+ Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
+ e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-21@holly-ridge-lunch
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:HRMS: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
+ hicken Bites\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle C
+ ut French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices\
+ , Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-22@holly-ridge-lunch
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:HRMS: Chicken Filet / Spicy Chicken Filet / Creamy Spinach Dip
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Creamy Spinach Dip\nGrains: Whole Grain Tortilla Chips\nVege
+ tables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: F
+ resh Made Pico de Gallo
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
