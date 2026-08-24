@@ -48,8 +48,12 @@ then set each calendar's colour in the app.
 
 One all-day event per school day. All-day keeps lunch out of the timed columns.
 
-- **Title** — school tag plus up to three hot entrées, e.g.
-  `HRMS: Chicken Filet / Broccoli Alfredo`, capped at 62 characters.
+- **Title** — school tag plus up to four abbreviated entrées, e.g.
+  `HRMS: Ckn Filet/Spcy / Brocc Alfrd`, capped at 54 characters. Abbreviation
+  rules live in `abbrev.py` as plain data: variant pairs served side by side
+  collapse into one label (`Ch/Pep Piz`), menu filler is dropped, and long words
+  contract (`Chicken` → `Ckn`). Averages 36 characters against 51 unabbreviated,
+  while showing more entrées per day.
 - **Description** — the full line: every entrée, the cold grab-and-go boxes, and
   sides grouped by category.
 
@@ -72,6 +76,7 @@ is what keeps the daily workflow from producing empty commits.
 | File | Purpose |
 |---|---|
 | `mealviewer.py` | Fetch and normalise menus; drops unpublished days |
+| `abbrev.py` | Title abbreviation tables: pairs, phrases, words |
 | `icswriter.py` | RFC 5545 rendering: folding, escaping, stable UIDs |
 | `build.py` | Entry point; writes `docs/` |
 | `schools.json` | The two schools; add or swap schools here |

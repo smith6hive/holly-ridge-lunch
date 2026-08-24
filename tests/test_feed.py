@@ -4,7 +4,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from icswriter import build_calendar, build_title, escape, fold, shorten  # noqa: E402
+from abbrev import abbreviate, condense  # noqa: E402
+from icswriter import build_calendar, build_title, escape, fold  # noqa: E402
 from mealviewer import Day, _month_spans  # noqa: E402
 
 
@@ -55,21 +56,48 @@ def test_escaping_handles_backslash_first():
     assert escape("a\\b;c,d") == r"a\\b\;c\,d"
 
 
-def test_title_carries_tag_and_entrees_within_budget():
+def test_title_carries_tag_and_abbreviated_entrees_within_budget():
     title = build_title("HRMS", sample())
     assert title.startswith("HRMS: ")
-    assert "Stuffed Crust Cheese Pizza" in title
-    assert len(title) <= 62
+    assert "Ch Piz" in title
+    assert len(title) <= 54
 
 
 def test_title_falls_back_to_grab_and_go_when_no_hot_entree():
     day = Day(day=date(2026, 8, 24), grab_and_go=["Turkey & Cheese Box"])
-    assert "Turkey & Cheese Box" in build_title("HRES", day)
+    assert build_title("HRES", day) == "HRES: Trky & Ch Box"
 
 
-def test_shorten_strips_bun_noise_only():
-    assert shorten("Chicken Filet on Brioche Bun") == "Chicken Filet"
-    assert shorten("Beef Nachos") == "Beef Nachos"
+def test_abbreviate_drops_filler_and_contracts_words():
+    assert abbreviate("Hamburger on Brioche Bun") == "Hmbrg"
+    assert abbreviate("Homestyle Baked Macaroni & Cheese") == "Mac & Ch"
+    assert abbreviate("Stuffed Crust Cheese Pizza") == "Ch Piz"
+
+
+def test_longer_phrase_wins_over_shorter_word():
+    """"Cheese Pizza" must not be eaten by the bare "Cheese" -> "Ch" rule."""
+    assert abbreviate("Pepperoni  Pizza") == "Pep Piz"
+
+
+def test_condense_collapses_variant_pairs():
+    pair = ["Stuffed Crust Cheese Pizza", "Pepperoni Pizza"]
+    assert condense(pair) == ["Ch/Pep Piz"]
+    burgers = ["Hamburger on Brioche Bun", "Cheeseburger on Brioche Bun"]
+    assert condense(burgers) == ["Hmbrg/Chzbrg"]
+
+
+def test_condense_leaves_unpaired_items_alone():
+    out = condense(["Stuffed Crust Cheese Pizza", "Beef Nachos"])
+    assert out == ["Ch Piz", "Beef Nachos"]
+
+
+def test_condense_never_emits_empty_labels():
+    assert "" not in condense(["Fresh", "Mini Cheese Quesadillas"])
+
+
+def test_single_long_entree_is_kept_not_replaced_by_lunch():
+    day = Day(day=date(2026, 8, 24), entrees=["Some Extremely Long Dish Name " * 3])
+    assert build_title("HRMS", day) != "HRMS: Lunch"
 
 
 def test_empty_day_is_detected():

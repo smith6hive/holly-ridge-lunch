@@ -12,7 +12,7 @@ UID:hres-2026-08-17@holly-ridge-lunch
 DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:HRES: Tangerine Chicken & Rice Bowl
+SUMMARY:HRES: Tang Ckn & Bowl / Ckn Tikka Masala
 DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
  ith Rice\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed 
  Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Kiwi Strawberry Sl
@@ -24,7 +24,7 @@ UID:hres-2026-08-18@holly-ridge-lunch
 DTSTAMP:20260818T000000Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-SUMMARY:HRES: Beef & Cheddar Soft Tacos / Hatch Chili Queso
+SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
 DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
   Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits
  : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
@@ -35,7 +35,7 @@ UID:hres-2026-08-19@holly-ridge-lunch
 DTSTAMP:20260819T000000Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-SUMMARY:HRES: Homestyle Baked Macaroni & Cheese / Grilled Chicken Wrap
+SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
   100% Apple Juice\nFresh Vegetables: Fresh Marinated Tomatoes
@@ -46,7 +46,7 @@ UID:hres-2026-08-20@holly-ridge-lunch
 DTSTAMP:20260820T000000Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-SUMMARY:HRES: Baked Popcorn Chicken / Plant Based 3 Bean Chili
+SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
  \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
@@ -58,7 +58,7 @@ UID:hres-2026-08-21@holly-ridge-lunch
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:HRES: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
  uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
  Carrots
@@ -69,7 +69,7 @@ UID:hres-2026-08-24@holly-ridge-lunch
 DTSTAMP:20260824T000000Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:HRES: Honey Sriracha Chicken Bites / Chana Masala with Rice
+SUMMARY:HRES: Srrcha Ckn Bites / Chana Masala
 DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Chana Masala with Rice\
  nGrab and go: Strawberry Yogurt Box\nGrains: Steamed Brown Rice\, Fresh Ba
  ked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots
@@ -81,7 +81,7 @@ UID:hres-2026-08-25@holly-ridge-lunch
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:HRES: Beef Nachos / Mini Cheese Quesadillas
+SUMMARY:HRES: Beef Nachos / Ch Quesa
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrab and go: St
  rawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Ranch
   Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGa
@@ -93,7 +93,7 @@ UID:hres-2026-08-26@holly-ridge-lunch
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:HRES: Hamburger / Cheeseburger / Grilled Cheese Sandwich
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\nGrab and go: Strawberry Yogurt Box\nVegetables
  : Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nFresh Vegetables: Fre
@@ -105,7 +105,7 @@ UID:hres-2026-08-27@holly-ridge-lunch
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:HRES: Butterball Turkey Hot Dog / Broccoli Alfredo Pasta
+SUMMARY:HRES: Hot Dog / Brocc Alfrd
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\nGr
  ab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVeget
  ables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cre
@@ -117,7 +117,7 @@ UID:hres-2026-08-28@holly-ridge-lunch
 DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-SUMMARY:HRES: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  es: Garlic Green Beans\nFresh Fruits: Fresh Sweet Apple Slices\nFresh Vege
  tables: Fresh Baby Carrots
@@ -128,7 +128,7 @@ UID:hres-2026-08-31@holly-ridge-lunch
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:HRES: Baked Chicken Bites / Salisbury Steak with Brown Gravy
+SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
 DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
  \nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVeg
  etables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFruits: Applesa
@@ -140,7 +140,7 @@ UID:hres-2026-09-01@holly-ridge-lunch
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:HRES: Spicy Beef & Queso Rice Bowl / Creamy Spinach Dip
+SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
 DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
  b and go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVeget
  ables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fr
@@ -152,7 +152,7 @@ UID:hres-2026-09-02@holly-ridge-lunch
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:HRES: Baked Rotini & Marinara / Cheeseburger Quesadillas
+SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
 DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
  ab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetab
  les: Baked Emoticon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegeta
@@ -164,7 +164,7 @@ UID:hres-2026-09-03@holly-ridge-lunch
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:HRES: General Tso's Popcorn Chicken Rice Bowl
+SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
  getable Dumplings\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked
   Dinner Roll\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\n
@@ -176,7 +176,7 @@ UID:hres-2026-09-04@holly-ridge-lunch
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:HRES: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
   go: Strawberry Yogurt Box\nFresh Fruits: Fresh Sweet Apple Slices\nFresh 
  Vegetables: Fresh Baby Carrots\, Fresh Cucumber Sticks
@@ -187,7 +187,7 @@ UID:hres-2026-09-08@holly-ridge-lunch
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:HRES: Beef & Cheddar Soft Tacos / Hatch Chili Queso
+SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
 DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrab an
  d go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetable
  s: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
@@ -198,7 +198,7 @@ UID:hres-2026-09-09@holly-ridge-lunch
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:HRES: Homestyle Baked Macaroni & Cheese / Grilled Chicken Wrap
+SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nV
  egetables: Steamed Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fresh 
@@ -210,7 +210,7 @@ UID:hres-2026-09-10@holly-ridge-lunch
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:HRES: Baked Popcorn Chicken
+SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
  Cheddar Cheese\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Di
  nner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeyde
@@ -222,7 +222,7 @@ UID:hres-2026-09-11@holly-ridge-lunch
 DTSTAMP:20260911T000000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:HRES: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
   go: Strawberry Yogurt Box\nVegetables: Steamed Broccoli\nFresh Fruits: Fr
  esh Bananas\nFresh Vegetables: Fresh Baby Carrots
@@ -233,7 +233,7 @@ UID:hres-2026-09-14@holly-ridge-lunch
 DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:HRES: Honey Sriracha Chicken Bites / Chana Masala with Rice
+SUMMARY:HRES: Srrcha Ckn Bites / Chana Masala
 DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Chana Masala with Rice\
  , Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\n
  Grains: Fresh Baked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginge
@@ -245,7 +245,7 @@ UID:hres-2026-09-15@holly-ridge-lunch
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:HRES: Beef Nachos / Mini Cheese Quesadillas
+SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
   & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Gr
  ain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Chili Spiced Cor
@@ -258,7 +258,7 @@ UID:hres-2026-09-16@holly-ridge-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:HRES: Hamburger / Cheeseburger / Grilled Cheese Sandwich
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\nGrab and 
  go: Strawberry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFruits: 10
@@ -270,7 +270,7 @@ UID:hres-2026-09-17@holly-ridge-lunch
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:HRES: Butterball Turkey Hot Dog / Broccoli Alfredo Pasta
+SUMMARY:HRES: Hot Dog / Brocc Alfrd / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\, C
  rispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGra
  ins: Garlic Butter Dinner Roll\nVegetables: BBQ Pinto Beans\nFresh Fruits:
@@ -282,7 +282,7 @@ UID:hres-2026-09-18@holly-ridge-lunch
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:HRES: Stuffed Crust Cheese Pizza / Pepperoni Pizza
+SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
  Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nVegetable
  s: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon\nF
@@ -294,7 +294,7 @@ UID:hres-2026-09-21@holly-ridge-lunch
 DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:HRES: Baked Chicken Bites / Salisbury Steak with Brown Gravy
+SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
 DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
  \nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fr
  ies\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Tart
@@ -306,7 +306,7 @@ UID:hres-2026-09-22@holly-ridge-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:HRES: Spicy Beef & Queso Rice Bowl / Creamy Spinach Dip
+SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
 DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
  ins: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: 
  Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo

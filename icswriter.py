@@ -13,23 +13,13 @@ from __future__ import annotations
 
 from datetime import date
 
+from abbrev import condense
 from mealviewer import SIDE_ORDER, Day
 
-TITLE_BUDGET = 62
-
-# Stripped from titles only; the description keeps the full menu name.
-NOISE = [
-    " on Brioche Bun",
-    " on Whole Grain Bun",
-    " on a Bun",
-    "Whole Grain ",
-]
-
-
-def shorten(name: str) -> str:
-    for token in NOISE:
-        name = name.replace(token, "")
-    return name.strip()
+# Titles are abbreviated (see abbrev.py); descriptions keep the district's
+# full menu text, so shortening never actually hides anything.
+TITLE_BUDGET = 54
+MAX_ENTREES = 4
 
 
 def escape(text: str) -> str:
@@ -66,11 +56,15 @@ def fold(line: str) -> str:
 
 
 def build_title(tag: str, day: Day) -> str:
-    """School tag plus as many hot entrees as fit the title budget."""
-    names = [shorten(n) for n in day.entrees] or [shorten(n) for n in day.grab_and_go]
+    """School tag plus as many abbreviated entrees as fit the title budget.
+
+    Always keeps at least one entree even if it overruns the budget, so a
+    single long-named dish is never replaced by a bare "Lunch".
+    """
+    names = condense(day.entrees) or condense(day.grab_and_go)
     title = f"{tag}: "
     chosen: list[str] = []
-    for name in names[:3]:
+    for name in names[:MAX_ENTREES]:
         candidate = " / ".join(chosen + [name])
         if chosen and len(title + candidate) > TITLE_BUDGET:
             break
