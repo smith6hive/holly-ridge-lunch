@@ -83,3 +83,18 @@ def test_month_spans_cover_range_without_gaps():
     assert spans[-1] == (date(2026, 11, 1), date(2026, 11, 3))
     for (_, prev_end), (next_start, _) in zip(spans, spans[1:]):
         assert (next_start - prev_end).days == 1
+
+
+def test_crlf_survives_a_write_read_round_trip(tmp_path):
+    """Guards the trap that made the build rewrite an unchanged feed every run.
+
+    read_text() translates newlines, so CRLF content read back that way never
+    equals what was written. build.py must use newline="" on both sides.
+    """
+    ics = build_calendar("HRMS", "Middle", [sample()])
+    target = tmp_path / "feed.ics"
+    with open(target, "w", encoding="utf-8", newline="") as fh:
+        fh.write(ics)
+    with open(target, encoding="utf-8", newline="") as fh:
+        assert fh.read() == ics
+    assert target.read_text(encoding="utf-8") != ics  # the trap itself

@@ -44,10 +44,17 @@ def main() -> int:
         ics = build_calendar(school["tag"], school["calname"], days)
         target = DOCS / f"{school['slug']}.ics"
 
-        if target.exists() and target.read_text(encoding="utf-8") == ics:
+        # Read with newline="" so CRLF survives; read_text() would translate
+        # newlines and make an unchanged file always compare as different.
+        existing = None
+        if target.exists():
+            with open(target, encoding="utf-8", newline="") as fh:
+                existing = fh.read()
+        if existing == ics:
             state = "unchanged"
         else:
-            target.write_text(ics, encoding="utf-8", newline="")
+            with open(target, "w", encoding="utf-8", newline="") as fh:
+                fh.write(ics)
             state = "written"
 
         last = days[-1].day.isoformat() if days else "none"
