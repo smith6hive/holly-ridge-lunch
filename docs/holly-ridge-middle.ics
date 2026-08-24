@@ -340,4 +340,15 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  resh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-23@holly-ridge-lunch
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
+ urger Quesadillas\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Fruit
+  Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

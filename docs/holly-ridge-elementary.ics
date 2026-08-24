@@ -312,4 +312,15 @@ DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
  Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-23@holly-ridge-lunch
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
+DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
+ ains: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFruits
+ : 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
