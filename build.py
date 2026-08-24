@@ -68,7 +68,7 @@ def main() -> int:
             }
         )
 
-    (DOCS / "index.html").write_text(render_index(summary), encoding="utf-8")
+    (DOCS / "index.html").write_text(render_index(summary, today), encoding="utf-8")
     (DOCS / "status.json").write_text(
         json.dumps({"generated": today.isoformat(), "feeds": summary}, indent=2) + "\n",
         encoding="utf-8",
@@ -76,7 +76,7 @@ def main() -> int:
     return 0
 
 
-def render_index(summary: list[dict]) -> str:
+def render_index(summary: list[dict], today: date) -> str:
     rows = "\n".join(
         f"    <tr><td>{s['name']}</td><td>{s['days']}</td><td>{s['through']}</td>"
         f'<td><a href="{s["slug"]}.ics">{s["slug"]}.ics</a></td></tr>'
@@ -108,6 +108,10 @@ public MealViewer API. Add either URL to Skylight under
 </table>
 <p>Menus are only published about a month ahead, so <em>Published through</em>
 moves forward as the school district loads new weeks.</p>
+<p><strong>Last rebuilt: {today.isoformat()}.</strong> This page is regenerated
+every morning. If that date is more than a day or two old the scheduled job has
+stopped &mdash; GitHub disables cron on public repos after 60 days of inactivity,
+and one manual <em>Run workflow</em> re-enables it.</p>
 </body>
 </html>
 """
