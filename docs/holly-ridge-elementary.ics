@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-17@holly-ridge-lunch
-DTSTAMP:20260817T000000Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:HRES: Tang Ckn & Bowl / Ckn Tikka Masala
-DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
- ith Rice\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed 
- Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Kiwi Strawberry Sl
- ushie\, 100% Juice Blue Raspberry Slushie
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-18@holly-ridge-lunch
 DTSTAMP:20260818T000000Z
 DTSTART;VALUE=DATE:20260818
@@ -321,6 +309,17 @@ SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
 DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
  ains: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFruits
  : 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-24@holly-ridge-lunch
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
+DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
+ getable Dumplings\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Gre
+ en Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

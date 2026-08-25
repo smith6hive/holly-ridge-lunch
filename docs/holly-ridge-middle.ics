@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-17@holly-ridge-lunch
-DTSTAMP:20260817T000000Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:HRMS: Ch/Pep Piz / Tang Ckn & Bowl
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Tangeri
- ne Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetables: 
- Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Blue
-  Raspberry Slushie\, 100% Juice Kiwi Strawberry Slushie
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-18@holly-ridge-lunch
 DTSTAMP:20260818T000000Z
 DTSTART;VALUE=DATE:20260818
@@ -349,6 +337,17 @@ SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
  urger Quesadillas\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Fruit
   Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-24@holly-ridge-lunch
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Dmplngs
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Chicken & Vegetable Dumplings\nVegetables: Savory Green Bean
+ s\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
