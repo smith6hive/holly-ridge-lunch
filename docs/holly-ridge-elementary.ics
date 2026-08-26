@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-18@holly-ridge-lunch
-DTSTAMP:20260818T000000Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
-  Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits
- : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-19@holly-ridge-lunch
 DTSTAMP:20260819T000000Z
 DTSTART;VALUE=DATE:20260819
@@ -69,11 +58,12 @@ UID:hres-2026-08-25@holly-ridge-lunch
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:HRES: Beef Nachos / Ch Quesa
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrab and go: St
- rawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Ranch
-  Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGa
- rnish: Fresh Diced Tomatoes
+SUMMARY:HRES: Ch Quesa / Srrcha Popcrn Ckn & Bowl
+DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Honey Sriracha Popcorn Chick
+ en & Rice Bowl\, Hatch Chili Queso\nGrab and go: Strawberry Yogurt Box\nGr
+ ains: Whole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Ch
+ ili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Fresh Diced Toma
+ toes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -320,6 +310,17 @@ SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
  getable Dumplings\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Gre
  en Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-25@holly-ridge-lunch
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
+  Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
