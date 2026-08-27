@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-19@holly-ridge-lunch
-DTSTAMP:20260819T000000Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
-DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
-  100% Apple Juice\nFresh Vegetables: Fresh Marinated Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-20@holly-ridge-lunch
 DTSTAMP:20260820T000000Z
 DTSTART;VALUE=DATE:20260820
@@ -71,11 +60,11 @@ UID:hres-2026-08-26@holly-ridge-lunch
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / MorningStar Burger
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\nGrab and go: Strawberry Yogurt Box\nVegetables
- : Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nFresh Vegetables: Fre
- sh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, MorningStar Plant Based Burger\nGrab and go: 
+ Strawberry Yogurt Box\nVegetables: Baked Emoticon Potatoes\, Savory Green 
+ Beans\, Seasoned Carrots\, Buttered Corn\nFruits: 100% Fruit Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +75,8 @@ DTEND;VALUE=DATE:20260828
 SUMMARY:HRES: Hot Dog / Brocc Alfrd
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\nGr
  ab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVeget
- ables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cre
- amy Coleslaw
+ ables: BBQ Pinto Beans\, Buttered Corn\nFresh Fruits: Fresh Oranges\nFresh
+  Vegetables: Creamy Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

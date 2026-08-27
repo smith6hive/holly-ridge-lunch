@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-19@holly-ridge-lunch
-DTSTAMP:20260819T000000Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:HRMS: Ch/Pep Piz / Mac & Ch
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
- le Baked Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: S
- avory Green Beans\nFruits: 100% Apple Juice\nFresh Vegetables: Fresh Marin
- ated Tomatoes\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-20@holly-ridge-lunch
 DTSTAMP:20260820T000000Z
 DTSTART;VALUE=DATE:20260820
@@ -156,12 +144,11 @@ UID:hrms-2026-09-03@holly-ridge-lunch
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Dmplngs / Strwbry Parf
+SUMMARY:HRMS: Ckn Filet/Spcy / Strwbry Parf / Ckn Egg Rolls
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Chicken & Vegetable Dumplings\, Vanilla Yogurt & Strawberry 
- Parfait\nGrab and go: Salsa & String Cheese Box\, Hummus & String Cheese B
- ox\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mi
- xed Fruit
+ Brioche Bun\, Vanilla Yogurt & Strawberry Parfait\, Chicken Egg Rolls\nGra
+ b and go: Salsa & String Cheese Box\, Hummus & String Cheese Box\nVegetabl
+ es: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -236,11 +223,13 @@ UID:hrms-2026-09-14@holly-ridge-lunch
 DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:HRMS: Ch/Pep Piz / Srrcha Ckn Bites
+SUMMARY:HRMS: Ch/Pep Piz / Srrcha Ckn Bites / Strwbry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Honey S
- riracha Chicken Bites\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Rol
- l\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFruits: Appl
- esauce Cup
+ riracha Chicken Bites\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chick
+ en & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven Roas
+ ted Turkey & Cheese Box\nGrains: Steamed Brown Rice\, Fresh Baked Dinner R
+ oll\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFruits: Ap
+ plesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +237,13 @@ UID:hrms-2026-09-15@holly-ridge-lunch
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos
+SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos / Strwbry Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Beef Nachos\nGrains: Whole Grain Tortilla Chips\nVegetables:
-  Ranch Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend Jui
- ce\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+ Brioche Bun\, Beef Nachos\, Vanilla Yogurt & Strawberry Parfait\, Crispy C
+ hicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven 
+ Roasted Turkey & Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetable
+ s: Ranch Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend J
+ uice\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -260,10 +251,12 @@ UID:hrms-2026-09-16@holly-ridge-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Chzbrg
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Chzbrg / Strwbry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Double 
- Cheeseburger on Brioche Bun\nVegetables: Baked Emoticon Potatoes\nFruits: 
- 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ Cheeseburger on Brioche Bun\, Vanilla Yogurt & Strawberry Parfait\, Crispy
+  Chicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Ove
+ n Roasted Turkey & Cheese Box\nVegetables: Baked Emoticon Potatoes\nFruits
+ : 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +264,13 @@ UID:hrms-2026-09-17@holly-ridge-lunch
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:HRMS: Ckn Filet/Spcy / Brocc Alfrd
+SUMMARY:HRMS: Ckn Filet/Spcy / Brocc Alfrd / Strwbry Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Broccoli Alfredo Pasta\nGrains: Garlic Butter Dinner Roll\nV
- egetables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables:
-  Creamy Coleslaw
+ Brioche Bun\, Broccoli Alfredo Pasta\, Vanilla Yogurt & Strawberry Parfait
+ \, Crispy Chicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese 
+ Box\, Oven Roasted Turkey & Cheese Box\nGrains: Garlic Butter Dinner Roll\
+ nVegetables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetable
+ s: Creamy Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -283,14 +278,13 @@ UID:hrms-2026-09-18@holly-ridge-lunch
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Strwbry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
-  Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 
- 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, F
- ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
- Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
- e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
+ all Double Dogs\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & C
+ heese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Tu
+ rkey & Cheese Box\nVegetables: Garlic Green Beans\nFruits: 100% Juice Froz
+ en Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Strawberry Lemon
+ ade\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
