@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-20@holly-ridge-lunch
-DTSTAMP:20260820T000000Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:HRMS: Ckn Filet/Spcy / 3-Bean Chili
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Plant Based 3 Bean Chili with Cheddar Cheese\, Hearty Beef &
-  Bean Chili\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable 
- Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Fresh Cucumb
- er Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-21@holly-ridge-lunch
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -94,8 +81,8 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Tur
  key & Cheese Box\, Hummus & String Cheese Box\, Strawberry Banana Yogurt B
- ox\nVegetables: Garlic Green Beans\, Steamed Broccoli\nFruits: Berry Medle
- y Cup\nCondiment: Hot Dog Chili
+ ox\nVegetables: Garlic Green Beans\, Steamed Broccoli\nFruits: Diced Peach
+  Cup\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -103,13 +90,12 @@ UID:hrms-2026-08-31@holly-ridge-lunch
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites / Strwbry Parf
+SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\, Vanilla Yogurt & Strawberry Parfait\, Vanilla Yogurt & Blue
- berry Parfait\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Turke
- y & Cheese Box\, Hummus & String Cheese Box\nGrains: Fresh Baked Dinner Ro
- ll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFruits: 
- Applesauce Cup
+ hicken Bites\, Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roasted T
+ urkey & Cheese Box\, Hummus & String Cheese Box\nGrains: Fresh Baked Dinne
+ r Roll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFrui
+ ts: Applesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -117,13 +103,12 @@ UID:hrms-2026-09-01@holly-ridge-lunch
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip / Strwbry Parf
+SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip / Peach Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Strawberry Parfait\, V
- anilla Yogurt & Fresh Blueberry Parfait\nGrab and go: Salsa & String Chees
- e Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\nGra
- ins: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: 
- Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
+ Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Peach Parfait\nGrab an
+ d go: Oven Roasted Turkey & Cheese Box\nGrains: Whole Grain Tortilla Chips
+ \nVegetables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetab
+ les: Fresh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -131,12 +116,11 @@ UID:hrms-2026-09-02@holly-ridge-lunch
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Strwbry Parf
+SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
- urger Quesadillas\, Vanilla Yogurt & Strawberry Parfait\nGrab and go: Sals
- a & String Cheese Box\, Hummus & String Cheese Box\nVegetables: Baked Emot
- icon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cuc
- umber Sticks
+ urger Quesadillas\, Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roas
+ ted Turkey & Cheese Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100%
+  Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
