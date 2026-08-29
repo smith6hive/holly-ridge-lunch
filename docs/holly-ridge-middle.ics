@@ -8,17 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-21@holly-ridge-lunch
-DTSTAMP:20260821T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Cheez-It C
- aesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-24@holly-ridge-lunch
 DTSTAMP:20260824T000000Z
 DTSTART;VALUE=DATE:20260824
@@ -326,6 +315,22 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\nFruits: Diced Peach Cup\nFresh Vegetables: Fresh Tossed S
  alad\, Sugar Roasted Baby Carrots\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-28@holly-ridge-lunch
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:HRMS: Ch/Pep Piz / Tang Ckn & Bowl
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Tangeri
+ ne Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetables: 
+ Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Froz
+ en Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\
+ , 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\,
+  Fruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Froze
+ n Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemon
+ ade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

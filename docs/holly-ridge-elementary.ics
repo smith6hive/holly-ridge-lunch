@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-21@holly-ridge-lunch
-DTSTAMP:20260821T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
- uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
- Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-24@holly-ridge-lunch
 DTSTAMP:20260824T000000Z
 DTSTART;VALUE=DATE:20260824
@@ -251,9 +240,9 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
 DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
- \nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fr
- ies\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Tart
-  Apple Slices
+ \, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\
+ nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fri
+ es\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -262,9 +251,10 @@ DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
-DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
- ins: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: 
- Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
+DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\, Cr
+ ispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrai
+ ns: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: F
+ resh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -272,10 +262,11 @@ UID:hres-2026-09-23@holly-ridge-lunch
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
-DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
- ains: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFruits
- : 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+SUMMARY:HRES: Rotini Marin / Chzbrg Quesa / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\, C
+ rispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGra
+ ins: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFruits:
+  100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -285,8 +276,9 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
- getable Dumplings\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Gre
- en Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
+ getable Dumplings\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Straw
+ berry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Gree
+ n Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -294,10 +286,25 @@ UID:hres-2026-09-25@holly-ridge-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
-  Carrots
+SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
+ Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nFruits: D
+ iced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-28@holly-ridge-lunch
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:HRES: Tang Ckn & Bowl / Ckn Tikka Masala
+DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
+ ith Rice\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed 
+ Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\,
+  Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice F
+ rozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\,
+  100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, 
+ Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
