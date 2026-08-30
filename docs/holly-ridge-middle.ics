@@ -333,4 +333,16 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Tangeri
  ade
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-29@holly-ridge-lunch
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:HRMS: Ckn Filet/Spcy / Hatch Chili Queso
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hatch Chili Queso\nGrains: Whole Grain Tortilla Chips\nVeget
+ ables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh
+  Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

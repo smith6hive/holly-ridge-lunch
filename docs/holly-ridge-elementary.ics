@@ -307,4 +307,15 @@ DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
  Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-29@holly-ridge-lunch
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
+DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
+  Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits
+ : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
