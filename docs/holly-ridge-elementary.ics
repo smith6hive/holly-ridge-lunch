@@ -318,4 +318,15 @@ DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
  : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-09-30@holly-ridge-lunch
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
+DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
+ ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
+  Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

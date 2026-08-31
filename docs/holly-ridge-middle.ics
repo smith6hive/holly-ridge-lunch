@@ -345,4 +345,16 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
   Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-09-30@holly-ridge-lunch
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:HRMS: Ch/Pep Piz / Mac & Ch
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
+ le Baked Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: S
+ avory Green Beans\nFruits: Mixed Fruit\nFresh Vegetables: Fresh Marinated 
+ Tomatoes\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
