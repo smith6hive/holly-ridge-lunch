@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-24@holly-ridge-lunch
-DTSTAMP:20260824T000000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:HRES: Srrcha Ckn Bites / Chana Masala
-DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Chana Masala with Rice\
- nGrab and go: Strawberry Yogurt Box\nGrains: Steamed Brown Rice\, Fresh Ba
- ked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots
- \nFruits: Applesauce Cup
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-25@holly-ridge-lunch
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
@@ -75,8 +63,8 @@ DTEND;VALUE=DATE:20260901
 SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
 DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
  \nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVeg
- etables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFruits: Applesa
- uce Cup
+ etables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Fruits: F
+ resh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -327,6 +315,18 @@ SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
   Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-01@holly-ridge-lunch
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
+ Fresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

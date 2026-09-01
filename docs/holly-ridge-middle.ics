@@ -8,20 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-24@holly-ridge-lunch
-DTSTAMP:20260824T000000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:HRMS: Ch/Pep Piz / Srrcha Ckn Bites
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Honey S
- riracha Chicken Bites\nGrab and go: Oven Roasted Turkey & Cheese Box\, Hum
- mus & String Cheese Box\, Salsa & String Cheese Box\nGrains: Steamed Brown
-  Rice\, Fresh Baked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginge
- r Glazed Carrots\nFresh Fruits: Fresh Oranges\nProtein: Strawberry Banana 
- Yogurt
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-25@holly-ridge-lunch
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
@@ -79,12 +65,11 @@ UID:hrms-2026-08-31@holly-ridge-lunch
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites / Peach Parf
+SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\, Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roasted T
- urkey & Cheese Box\, Hummus & String Cheese Box\nGrains: Fresh Baked Dinne
- r Roll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFrui
- ts: Applesauce Cup
+ hicken Bites\nGrab and go: Oven Roasted Turkey & Cheese Box\nGrains: Fresh
+  Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto
+  Beans\nFruits: Applesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +340,19 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
  le Baked Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: S
  avory Green Beans\nFruits: Mixed Fruit\nFresh Vegetables: Fresh Marinated 
  Tomatoes\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-01@holly-ridge-lunch
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Hearty Beef & 
+ Bean Chili\, Plant Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh B
+ aked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh 
+ Honeydew Melon\nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
