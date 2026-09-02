@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-25@holly-ridge-lunch
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:HRES: Ch Quesa / Srrcha Popcrn Ckn & Bowl
-DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Honey Sriracha Popcorn Chick
- en & Rice Bowl\, Hatch Chili Queso\nGrab and go: Strawberry Yogurt Box\nGr
- ains: Whole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Ch
- ili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Fresh Diced Toma
- toes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-26@holly-ridge-lunch
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
@@ -75,8 +62,8 @@ DTEND;VALUE=DATE:20260902
 SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
 DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
  b and go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVeget
- ables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fr
- esh Made Pico de Gallo
+ ables: Buttered Corn\, Salsa\nFresh Fruits: Fresh Cantaloupe\, Fresh Sweet
+  Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +75,7 @@ SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
 DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
  ab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetab
  les: Baked Emoticon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegeta
- bles: Fresh Cucumber Sticks
+ bles: Fresh Cucumber Sticks\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -327,6 +314,17 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
  \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
  Fresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-02@holly-ridge-lunch
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
+ uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
+ Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

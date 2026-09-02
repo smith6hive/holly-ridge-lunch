@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-25@holly-ridge-lunch
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:HRMS: Ckn Filet/Spcy / Ch Quesa
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Mini Cheese Quesadillas\nGrab and go: Salsa & String Cheese 
- Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\, Stra
- wberry Banana Yogurt Box\nVegetables: Ranch Style Pinto Beans\, Chili Spic
- ed Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Fresh Diced Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-26@holly-ridge-lunch
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
@@ -93,8 +80,8 @@ DTEND;VALUE=DATE:20260903
 SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
  urger Quesadillas\, Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roas
- ted Turkey & Cheese Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100%
-  Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ ted Turkey & Cheese Box\, Strawberry Yogurt Box\nVegetables: Baked Emotico
+ n Potatoes\nFruits: 100% Fruit Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -353,6 +340,17 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Bean Chili\, Plant Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh B
  aked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh 
  Honeydew Melon\nFresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-02@holly-ridge-lunch
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Cheez-It C
+ aesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
