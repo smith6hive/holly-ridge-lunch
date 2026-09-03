@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-26@holly-ridge-lunch
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:HRMS: Ch/Pep Piz / Hmbrg/Chzbrg
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
- er on Brioche Bun\, Cheeseburger on Brioche Bun\nGrab and go: Salsa & Stri
- ng Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese 
- Box\, Strawberry Banana Yogurt Box\nVegetables: Baked Emoticon Potatoes\nF
- ruits: 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-27@holly-ridge-lunch
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
@@ -233,27 +220,16 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hrms-2026-09-21@holly-ridge-lunch
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle C
- ut French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices\
- , Fresh Tart Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-22@holly-ridge-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip
+SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip / Peach Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Creamy Spinach Dip\nGrains: Whole Grain Tortilla Chips\nVege
- tables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: F
- resh Made Pico de Gallo
+ Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Peach Parfait\, Crispy
+  Chicken & Cheese Chef Salad\nGrab and go: Oven Roasted Turkey & Cheese Bo
+ x\nGrains: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fr
+ uits: Fresh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
