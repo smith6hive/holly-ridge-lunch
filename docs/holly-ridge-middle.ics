@@ -8,20 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-27@holly-ridge-lunch
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:HRMS: Ckn Filet/Spcy / Brocc Alfrd
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Broccoli Alfredo Pasta\nGrab and go: Salsa & String Cheese B
- ox\, Oven Roasted Turkey & Cheese Box\, Hummus & String Cheese Box\, Straw
- berry Banana Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVegetables: BB
- Q Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Creamy Coles
- law
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-28@holly-ridge-lunch
 DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
@@ -76,11 +62,10 @@ UID:hrms-2026-09-03@holly-ridge-lunch
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:HRMS: Ckn Filet/Spcy / Strwbry Parf / Ckn Egg Rolls
+SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Egg Rolls
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Vanilla Yogurt & Strawberry Parfait\, Chicken Egg Rolls\nGra
- b and go: Salsa & String Cheese Box\, Hummus & String Cheese Box\nVegetabl
- es: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
+ Brioche Bun\, Chicken Egg Rolls\nGrab and go: Strawberry Yogurt Box\nVeget
+ ables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -88,11 +73,11 @@ UID:hrms-2026-09-04@holly-ridge-lunch
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Strwbry Parf
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Vanilla Yogurt & Strawberry Parfait\nGrab and go: Salsa 
- & String Cheese Box\, Hummus & String Cheese Box\nVegetables: Creamy Spina
- ch\nFruits: Diced Peach Cup\nFresh Vegetables: Sugar Roasted Baby Carrots
+ all Double Dogs\nGrab and go: Strawberry Yogurt Box\nVegetables: Creamy Sp
+ inach\nFruits: Diced Peach Cup\nFresh Vegetables: Sugar Roasted Baby Carro
+ ts\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -237,10 +222,12 @@ UID:hrms-2026-09-23@holly-ridge-lunch
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa
+SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
- urger Quesadillas\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Fruit
-  Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ urger Quesadillas\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese Chef S
+ alad\nGrab and go: Oven Roasted Turkey & Cheese Box\nVegetables: Baked Emo
+ ticon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cu
+ cumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -248,10 +235,12 @@ UID:hrms-2026-09-24@holly-ridge-lunch
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Dmplngs
+SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Dmplngs / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Chicken & Vegetable Dumplings\nVegetables: Savory Green Bean
- s\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
+ Brioche Bun\, Chicken & Vegetable Dumplings\, Cheddar Cheese Chef Salad\, 
+ Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roasted Turkey & Cheese 
+ Box\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: M
+ ixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -259,10 +248,12 @@ UID:hrms-2026-09-25@holly-ridge-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nFruits: Diced Peach Cup\nFresh Vegetables: Fresh Tossed S
- alad\, Sugar Roasted Baby Carrots\nCondiment: Hot Dog Chili
+ all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese Chef Sal
+ ad\nGrab and go: Oven Roasted Turkey & Cheese Box\nFruits: Diced Peach Cup
+ \nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Carrots\nCondi
+ ment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

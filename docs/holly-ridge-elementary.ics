@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-27@holly-ridge-lunch
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:HRES: Hot Dog / Brocc Alfrd
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\nGr
- ab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVeget
- ables: BBQ Pinto Beans\, Buttered Corn\nFresh Fruits: Fresh Oranges\nFresh
-  Vegetables: Creamy Coleslaw
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-28@holly-ridge-lunch
 DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
@@ -86,8 +74,9 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nFresh Fruits: Fresh Sweet Apple Slices\nFresh 
- Vegetables: Fresh Baby Carrots\, Fresh Cucumber Sticks
+  go: Strawberry Yogurt Box\nVegetables: Steamed Broccoli\nFresh Fruits: Fr
+ esh Sweet Apple Slices\nFresh Vegetables: Fresh Baby Carrots\, Fresh Cucum
+ ber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

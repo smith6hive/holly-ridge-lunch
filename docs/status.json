@@ -1,16 +1,16 @@
 {
-  "generated": "2026-09-03",
+  "generated": "2026-09-04",
   "feeds": [
     {
       "name": "Holly Ridge Elementary Lunch",
       "slug": "holly-ridge-elementary",
-      "days": 26,
+      "days": 25,
       "through": "2026-10-02"
     },
     {
       "name": "Holly Ridge Middle Lunch",
       "slug": "holly-ridge-middle",
-      "days": 25,
+      "days": 24,
       "through": "2026-10-02"
     }
   ]
