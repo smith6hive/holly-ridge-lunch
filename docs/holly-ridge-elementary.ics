@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-28@holly-ridge-lunch
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
- uits: Fresh Sweet Apple Slices\, Fresh Bananas\nFresh Vegetables: Fresh Ba
- by Carrots\, Creamy Coleslaw\, Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-08-31@holly-ridge-lunch
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
@@ -306,6 +295,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
   Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Salad\nFresh F
  ruits: Fresh Bananas\nFresh Vegetables: Fresh Baby Carrots\, Fresh Tossed 
  Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-05@holly-ridge-lunch
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:HRES: Srrcha Ckn Bites / Crspy Bkd Ckn Drumstick
+DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Crispy Baked Chicken Dr
+ umstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables:
+  Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delic
+ ious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

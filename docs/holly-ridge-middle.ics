@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-28@holly-ridge-lunch
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Tur
- key & Cheese Box\, Hummus & String Cheese Box\, Strawberry Banana Yogurt B
- ox\nVegetables: Garlic Green Beans\, Steamed Broccoli\nFruits: Diced Peach
-  Cup\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-08-31@holly-ridge-lunch
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
@@ -318,6 +305,18 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Cheez-It C
  aesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-05@holly-ridge-lunch
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:HRMS: Ch/Pep Piz / Crspy Bkd Ckn Drumstick
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
+ Baked Chicken Drumstick\nGrains: Fresh Baked Dinner Roll\nVegetables: Glaz
+ ed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Sweet Apple Sl
+ ices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
