@@ -309,4 +309,16 @@ DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Crispy Baked Chicken Dr
  ious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-06@holly-ridge-lunch
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:HRES: Beef Nachos / Ch Quesa
+DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
+ rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
+ orn & Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettu
+ ce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
