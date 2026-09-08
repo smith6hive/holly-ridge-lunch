@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-08-31@holly-ridge-lunch
-DTSTAMP:20260831T000000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Bites
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\nGrab and go: Oven Roasted Turkey & Cheese Box\nGrains: Fresh
-  Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto
-  Beans\nFruits: Applesauce Cup
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-01@holly-ridge-lunch
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
@@ -329,6 +317,32 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
  esadillas\nVegetables: Flame Roasted Corn & Jalapeno Blend\, Ranch Style P
  into Beans\nFruits: Mixed Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-07@holly-ridge-lunch
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Hmbrg / Dbl Chzbrg
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Double 
+ Hamburger on Brioche Bun\, Double Cheeseburger on Brioche Bun\nVegetables:
+  Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nGarnish: Shredded Iceb
+ erg Lettuce\, Sliced Red Onion\, Pickle Chips\, Fresh Sliced Tomatoes\nFre
+ sh Vegetables: Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-08@holly-ridge-lunch
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Spaghetti with
+  Meat Sauce\nGrains: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetabl
+ e Medley\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Sal
+ ad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

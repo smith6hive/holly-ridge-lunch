@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-08-31@holly-ridge-lunch
-DTSTAMP:20260831T000000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
-DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
- \nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVeg
- etables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Fruits: F
- resh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-01@holly-ridge-lunch
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
@@ -319,6 +307,28 @@ DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
  rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
  orn & Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettu
  ce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-07@holly-ridge-lunch
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
+DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
+ \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFruits: 1
+ 00% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-08@holly-ridge-lunch
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:HRES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
+ s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
+ uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
