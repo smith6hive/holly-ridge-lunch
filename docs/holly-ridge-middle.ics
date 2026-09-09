@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-01@holly-ridge-lunch
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip / Peach Parf
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Peach Parfait\nGrab an
- d go: Oven Roasted Turkey & Cheese Box\nGrains: Whole Grain Tortilla Chips
- \nVegetables: Buttered Corn\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetab
- les: Fresh Made Pico de Gallo
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-02@holly-ridge-lunch
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
@@ -63,8 +50,7 @@ DTEND;VALUE=DATE:20260909
 SUMMARY:HRMS: Ckn Filet/Spcy / Hatch Chili Queso / Pimnto Ch
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hatch Chili Queso\, Scratch Made Pimento Cheese & Crackers\,
-  Vanilla Yogurt & Strawberry Parfait\nGrab and go: Salsa & String Cheese B
- ox\, Hummus & String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVeget
+  Vanilla Yogurt & Peach Parfait\nGrains: Whole Grain Tortilla Chips\nVeget
  ables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -73,12 +59,12 @@ UID:hrms-2026-09-09@holly-ridge-lunch
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:HRMS: Ch/Pep Piz / Mac & Ch / Strwbry Parf
+SUMMARY:HRMS: Ch/Pep Piz / Mac & Ch / Pimnto Ch / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
- le Baked Macaroni & Cheese\, Vanilla Yogurt & Strawberry Parfait\nGrab and
-  go: Salsa & String Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus
-  & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed
-  Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+ le Baked Macaroni & Cheese\, Scratch Made Pimento Cheese & Crackers\, Vani
+ lla Yogurt & Peach Parfait\nGrab and go: Oven Roasted Turkey & Cheese Box\
+ nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits: Mi
+ xed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -343,6 +329,21 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
   Meat Sauce\nGrains: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetabl
  e Medley\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Sal
  ad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-09@holly-ridge-lunch
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
+  Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 
+ 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, F
+ ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
+ Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
+ e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

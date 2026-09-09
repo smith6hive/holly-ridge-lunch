@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-01@holly-ridge-lunch
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
-DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\nGra
- b and go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVeget
- ables: Buttered Corn\, Salsa\nFresh Fruits: Fresh Cantaloupe\, Fresh Sweet
-  Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-02@holly-ridge-lunch
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
@@ -64,7 +52,7 @@ DTEND;VALUE=DATE:20260909
 SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
 DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrab an
  d go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetable
- s: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
+ s: Street Corn\, Salsa\nFresh Fruits: Fresh Bananas
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -72,11 +60,10 @@ UID:hres-2026-09-09@holly-ridge-lunch
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
-DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nV
- egetables: Steamed Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fresh 
- Marinated Tomatoes
+SUMMARY:HRES: Dbl Ch Mac & Ch / Beef Nachos
+DESCRIPTION:Entrees: Double Cheese Mac & Cheese\, Beef Nachos\, Oven Roaste
+ d Turkey Tenderloin Wrap\, Vanilla Yogurt & Peach Parfait\nGrains: Fresh B
+ aked Dinner Roll\nVegetables: Steamed Broccoli
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -329,6 +316,21 @@ SUMMARY:HRES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
 DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
  s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
  uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-09@holly-ridge-lunch
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
+ es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Berry Americ
+ a\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit C
+ up\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice F
+ rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
+  100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
+ h Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
