@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-02@holly-ridge-lunch
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Peach Parf
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
- urger Quesadillas\, Vanilla Yogurt & Peach Parfait\nGrab and go: Oven Roas
- ted Turkey & Cheese Box\, Strawberry Yogurt Box\nVegetables: Baked Emotico
- n Potatoes\nFruits: 100% Fruit Blend Juice
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-03@holly-ridge-lunch
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
@@ -75,11 +63,10 @@ DTEND;VALUE=DATE:20260911
 SUMMARY:HRMS: Ckn Filet/Spcy / 3-Bean Chili / Pimnto Ch
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Plant Based 3 Bean Chili with Cheddar Cheese\, Scratch Made 
- Pimento Cheese & Crackers\, Vanilla Yogurt & Strawberry Parfait\nGrab and 
- go: Salsa & String Cheese Box\, Oven Roasted Turkey & Cheese Box\, Hummus 
- & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
- getable Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quic
- k Pickled Cucumber Sticks
+ Pimento Cheese & Crackers\, Crispy Chicken & Cheese Chef Salad\nGrab and g
+ o: Strawberry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetabl
+ es: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vege
+ tables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-02@holly-ridge-lunch
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:HRES: Rotini Marin / Chzbrg Quesa
-DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\nGr
- ab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetab
- les: Baked Emoticon Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegeta
- bles: Fresh Cucumber Sticks\, Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-03@holly-ridge-lunch
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
@@ -63,7 +51,8 @@ DTEND;VALUE=DATE:20260910
 SUMMARY:HRES: Dbl Ch Mac & Ch / Beef Nachos
 DESCRIPTION:Entrees: Double Cheese Mac & Cheese\, Beef Nachos\, Oven Roaste
  d Turkey Tenderloin Wrap\, Vanilla Yogurt & Peach Parfait\nGrains: Fresh B
- aked Dinner Roll\nVegetables: Steamed Broccoli
+ aked Dinner Roll\nVegetables: Steamed Broccoli\nFresh Fruits: Fresh Strawb
+ erries\nFresh Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -71,11 +60,11 @@ UID:hres-2026-09-10@holly-ridge-lunch
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Di
- nner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeyde
- w Melon\nFresh Vegetables: Quick Pickled Cucumber Sticks
+SUMMARY:HRES: Bkd Popcrn Ckn
+DESCRIPTION:Entrees: Baked Popcorn Chicken\nGrab and go: Strawberry Yogurt 
+ Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
+ Fresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled Cucumb
+ er Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -277,11 +266,11 @@ UID:hres-2026-10-05@holly-ridge-lunch
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:HRES: Srrcha Ckn Bites / Crspy Bkd Ckn Drumstick
-DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Crispy Baked Chicken Dr
- umstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables:
-  Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delic
- ious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
+SUMMARY:HRES: Srrcha Honey Popcrn Ckn
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
+ Drumstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetable
+ s: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Del
+ icious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
