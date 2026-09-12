@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-04@holly-ridge-lunch
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nGrab and go: Strawberry Yogurt Box\nVegetables: Creamy Sp
- inach\nFruits: Diced Peach Cup\nFresh Vegetables: Sugar Roasted Baby Carro
- ts\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-08@holly-ridge-lunch
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
@@ -76,13 +64,12 @@ UID:hrms-2026-09-14@holly-ridge-lunch
 DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:HRMS: Ch/Pep Piz / Srrcha Ckn Bites / Strwbry Parf
+SUMMARY:HRMS: Ch/Pep Piz / Srrcha Ckn Bites
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Honey S
- riracha Chicken Bites\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chick
- en & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven Roas
- ted Turkey & Cheese Box\nGrains: Steamed Brown Rice\, Fresh Baked Dinner R
- oll\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFruits: Ap
- plesauce Cup
+ riracha Chicken Bites\, Crispy Chicken & Cheese Chef Salad\nGrab and go: O
+ ven Roasted Turkey & Cheese Box\nGrains: Steamed Brown Rice\, Fresh Baked 
+ Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFr
+ esh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -323,6 +310,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
  Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
  e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-12@holly-ridge-lunch
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:HRMS: Ch/Pep Piz / Bkd Popcrn Ckn
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked P
+ opcorn Chicken\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle
+  Cut French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slice
+ s\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

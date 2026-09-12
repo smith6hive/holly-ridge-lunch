@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-04@holly-ridge-lunch
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nVegetables: Steamed Broccoli\nFresh Fruits: Fr
- esh Sweet Apple Slices\nFresh Vegetables: Fresh Baby Carrots\, Fresh Cucum
- ber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-08@holly-ridge-lunch
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
@@ -62,8 +50,8 @@ DTEND;VALUE=DATE:20260912
 SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
   go: Strawberry Yogurt Box\, Salsa & String Cheese Box\nFresh Fruits: Fres
- h Sweet Apple Slices\nFresh Vegetables: Fresh Baby Carrots\, Fresh Tossed 
- Salad
+ h Sweet Apple Slices\, Fresh Bananas\nFresh Vegetables: Fresh Baby Carrots
+ \, Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -309,6 +297,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy
  Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nVe
  getables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Waterm
  elon\nFresh Vegetables: Fresh Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-12@holly-ridge-lunch
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Frui
+ ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
