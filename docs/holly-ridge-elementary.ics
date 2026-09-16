@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-08@holly-ridge-lunch
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrab an
- d go: Strawberry Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetable
- s: Street Corn\, Salsa\nFresh Fruits: Fresh Bananas
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-09@holly-ridge-lunch
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -344,6 +333,17 @@ SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nFrui
  ts: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucu
  mber Sticks\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-16@holly-ridge-lunch
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
+  Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
