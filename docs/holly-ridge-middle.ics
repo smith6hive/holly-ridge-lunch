@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-09@holly-ridge-lunch
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:HRMS: Ch/Pep Piz / Mac & Ch / Pimnto Ch / Peach Parf
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Homesty
- le Baked Macaroni & Cheese\, Scratch Made Pimento Cheese & Crackers\, Vani
- lla Yogurt & Peach Parfait\nGrab and go: Oven Roasted Turkey & Cheese Box\
- nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits: Mi
- xed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-10@holly-ridge-lunch
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
@@ -84,8 +71,8 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Chzbrg / Strwbry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Double 
  Cheeseburger on Brioche Bun\, Vanilla Yogurt & Strawberry Parfait\, Crispy
   Chicken & Cheese Chef Salad\nGrab and go: Hummus & String Cheese Box\nVeg
- etables: Baked Smiley Potatoes\nFresh Fruits: Fresh Sweet Apple Slices\nFr
- esh Vegetables: Fresh Cucumber Sticks
+ etables: Baked Smiley Potatoes\nFresh Fruits: Fresh Sweet Apple Slices\, F
+ resh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -96,10 +83,9 @@ DTEND;VALUE=DATE:20260918
 SUMMARY:HRMS: Ckn Filet/Spcy / Brocc Alfrd / Strwbry Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Broccoli Alfredo Pasta\, Vanilla Yogurt & Strawberry Parfait
- \, Crispy Chicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese 
- Box\, Oven Roasted Turkey & Cheese Box\nGrains: Garlic Butter Dinner Roll\
- nVegetables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetable
- s: Creamy Coleslaw
+ \, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus & String Cheese
+  Box\nGrains: Garlic Butter Dinner Roll\nVegetables: BBQ Pinto Beans\nFres
+ h Fruits: Fresh Oranges\nFresh Vegetables: Creamy Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -110,10 +96,9 @@ DTEND;VALUE=DATE:20260919
 SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Strwbry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & C
- heese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven Roasted Tu
- rkey & Cheese Box\nVegetables: Garlic Green Beans\nFruits: 100% Juice Froz
- en Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Strawberry Lemon
- ade\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
+ heese Chef Salad\nGrab and go: Hummus & String Cheese Box\nVegetables: Gar
+ lic Green Beans\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Fre
+ sh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

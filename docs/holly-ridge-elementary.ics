@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-09@holly-ridge-lunch
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:HRES: Dbl Ch Mac & Ch / Beef Nachos
-DESCRIPTION:Entrees: Double Cheese Mac & Cheese\, Beef Nachos\, Oven Roaste
- d Turkey Tenderloin Wrap\, Vanilla Yogurt & Peach Parfait\nGrains: Fresh B
- aked Dinner Roll\nVegetables: Steamed Broccoli\nFresh Fruits: Fresh Strawb
- erries\nFresh Vegetables: Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-10@holly-ridge-lunch
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
@@ -77,9 +65,9 @@ DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\nGrab and 
- go: Strawberry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFruits: 10
- 0% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\, MorningS
+ tar Plant Based Burger\nGrab and go: Strawberry Yogurt Box\nVegetables: Ba
+ ked Emoticon Potatoes\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -89,9 +77,10 @@ DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:HRES: Hot Dog / Brocc Alfrd / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\, C
- rispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGra
- ins: Garlic Butter Dinner Roll\nVegetables: BBQ Pinto Beans\nFresh Fruits:
-  Fresh Oranges\nFresh Vegetables: Creamy Coleslaw
+ rispy Chicken & Cheese Chef Salad\, Vanilla Yogurt & Strawberry Parfait\nG
+ rab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVege
+ tables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cr
+ eamy Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
