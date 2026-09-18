@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-10@holly-ridge-lunch
-DTSTAMP:20260910T000000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:HRES: Bkd Popcrn Ckn / Grld Ch
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Grilled Cheese Sandwich\nGrab 
- and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables
- : Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegeta
- bles: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-11@holly-ridge-lunch
 DTSTAMP:20260911T000000Z
 DTSTART;VALUE=DATE:20260911
@@ -75,12 +63,11 @@ UID:hres-2026-09-17@holly-ridge-lunch
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:HRES: Hot Dog / Brocc Alfrd / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\, C
- rispy Chicken & Cheese Chef Salad\, Vanilla Yogurt & Strawberry Parfait\nG
- rab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVege
- tables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cr
- eamy Coleslaw
+SUMMARY:HRES: Hot Dog / Brocc Alfrd
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\nGr
+ ab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVeget
+ ables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cre
+ amy Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -88,11 +75,10 @@ UID:hres-2026-09-18@holly-ridge-lunch
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nVegetable
- s: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon\nF
- resh Vegetables: Fresh Tossed Salad
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Yogurt Box\nFresh Vegetables: Fresh Tossed Salad\, Creamy 
+ Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
