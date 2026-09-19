@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-11@holly-ridge-lunch
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\, Salsa & String Cheese Box\nFresh Fruits: Fres
- h Sweet Apple Slices\, Fresh Bananas\nFresh Vegetables: Fresh Baby Carrots
- \, Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-14@holly-ridge-lunch
 DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
@@ -319,6 +307,21 @@ SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
  Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
   Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-19@holly-ridge-lunch
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:HRES: Mandarin Orange Popcrn Ckn / Veggie Lo Mein
+DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\nGrai
+ ns: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Stea
+ med Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry America
+ \, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit Cu
+ p\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice Fr
+ ozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\, 
+ 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
