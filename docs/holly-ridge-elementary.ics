@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-14@holly-ridge-lunch
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:HRES: Srrcha Ckn Bites / Chana Masala
-DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Chana Masala with Rice\
- , Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\n
- Grains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables: Creamy G
- arlic Spinach\, Ginger Glazed Carrots\nFresh Fruits: Fresh Sweet Apple Sli
- ces
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-15@holly-ridge-lunch
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
@@ -344,6 +331,18 @@ SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
   Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-22@holly-ridge-lunch
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
+ Fresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
