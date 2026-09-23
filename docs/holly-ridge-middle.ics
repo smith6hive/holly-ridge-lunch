@@ -8,21 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-15@holly-ridge-lunch
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos / Strwbry Parf
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Beef Nachos\, Vanilla Yogurt & Strawberry Parfait\, Crispy C
- hicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven 
- Roasted Turkey & Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetable
- s: Ranch Style Pinto Beans\, Flame Roasted Corn & Jalapeno Blend\nFruits: 
- 100% Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced To
- matoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-16@holly-ridge-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -66,13 +51,13 @@ UID:hrms-2026-09-22@holly-ridge-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:HRMS: Ckn Filet/Spcy / Crmy Spnch Dip / Peach Parf
+SUMMARY:HRMS: Ckn Filet/Spcy / Peach Parf / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Creamy Spinach Dip\, Vanilla Yogurt & Peach Parfait\, Crispy
-  Chicken & Cheese Chef Salad\nGrab and go: Hummus & String Cheese Box\nGra
- ins: Whole Grain Tortilla Chips\nVegetables: Flame Roasted Corn & Jalapeno
-  Blend\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fresh Marinated 
- Tomatoes
+ Brioche Bun\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese Che
+ f Salad\, Beef Nachos\nGrab and go: Hummus & String Cheese Box\nGrains: Wh
+ ole Grain Tortilla Chips\nVegetables: Flame Roasted Corn & Jalapeno Blend\
+ nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fresh Marinated Tomatoe
+ s
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -83,9 +68,9 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:HRMS: Ch/Pep Piz / Chzbrg Quesa / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheeseb
  urger Quesadillas\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese Chef S
- alad\nGrab and go: Hummus & String Cheese Box\nVegetables: Baked Emoticon 
- Potatoes\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber
-  Sticks
+ alad\nGrab and go: Hummus & String Cheese Box\, Strawberry Banana Yogurt B
+ ox\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Fruit Blend Juice\nF
+ resh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -93,12 +78,13 @@ UID:hrms-2026-09-24@holly-ridge-lunch
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:HRMS: Ckn Filet/Spcy / Ckn Dmplngs / Chdr Ch Chef Sld
+SUMMARY:HRMS: Ckn Filet/Spcy / Chdr Ch Chef Sld / Peach Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Chicken & Vegetable Dumplings\, Cheddar Cheese Chef Salad\, 
- Vanilla Yogurt & Peach Parfait\nGrab and go: Hummus & String Cheese Box\nV
- egetables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits: Mixed F
- ruit
+ Brioche Bun\, Cheddar Cheese Chef Salad\, Vanilla Yogurt & Peach Parfait\,
+  Vanilla Yogurt & Fresh Strawberry Parfait\, Chicken Tikka Masala with Ric
+ e\nGrab and go: Hummus & String Cheese Box\nGrains: Whole Grain Garlic Fla
+ tbread\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\nFruits
+ : Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -106,12 +92,12 @@ UID:hrms-2026-09-25@holly-ridge-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese Chef Sal
- ad\nGrab and go: Hummus & String Cheese Box\nFruits: Diced Peach Cup\nFres
- h Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Carrots\nCondiment: 
- Hot Dog Chili
+ all Double Dogs\, Cheddar Cheese Chef Salad\, Vanilla Yogurt & Fresh Straw
+ berry Parfait\nGrab and go: Hummus & String Cheese Box\nFruits: Diced Peac
+ h Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Carrots\n
+ Condiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +342,19 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  ef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner R
  oll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melo
  n\nFresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-23@holly-ridge-lunch
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese
+  Chef Salad\nGrab and go: Strawberry Yogurt Box\, Hummus & String Cheese B
+ ox\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\,
+  Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

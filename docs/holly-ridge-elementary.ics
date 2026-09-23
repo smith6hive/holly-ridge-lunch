@@ -8,20 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-15@holly-ridge-lunch
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
-  & Cheese Chef Salad\, Honey Sriracha Chicken Bites\, Vanilla Yogurt & Str
- awberry Parfait\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Grain T
- ortilla Chips\, Fresh Baked Dinner Roll\nVegetables: Ranch Style Pinto Bea
- ns\, Chili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded 
- Iceberg Lettuce\, Fresh Diced Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-16@holly-ridge-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -73,11 +59,11 @@ UID:hres-2026-09-22@holly-ridge-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:HRES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
-DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\, Cr
- ispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrai
- ns: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: F
- resh Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
+SUMMARY:HRES: Crmy Spnch Dip / Morning Star Chick'n Nuggets
+DESCRIPTION:Entrees: Creamy Spinach Dip\, Morning Star Chick'n Nuggets\, Va
+ nilla Yogurt & Strawberry Parfait\nGrab and go: Strawberry Yogurt Box\nGra
+ ins: Whole Grain Tortilla Chips\nVegetables: Buttered Corn\, Salsa\nFresh 
+ Fruits: Fresh Golden Delicious Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -88,8 +74,8 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:HRES: Rotini Marin / Chzbrg Quesa / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\, C
  rispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGra
- ins: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFruits:
-  100% Fruit Blend Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ ins: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFresh F
+ ruits: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -343,6 +329,17 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
  \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
  Fresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-23@holly-ridge-lunch
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
+ uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
+ Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
