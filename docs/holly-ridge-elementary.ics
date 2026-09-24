@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-16@holly-ridge-lunch
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\, MorningS
- tar Plant Based Burger\nGrab and go: Strawberry Yogurt Box\nVegetables: Ba
- ked Emoticon Potatoes\nFresh Vegetables: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-17@holly-ridge-lunch
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
@@ -71,11 +59,12 @@ UID:hres-2026-09-23@holly-ridge-lunch
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:HRES: Rotini Marin / Chzbrg Quesa / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\, C
- rispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGra
- ins: Fresh Baked Dinner Roll\nVegetables: Baked Emoticon Potatoes\nFresh F
- ruits: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+SUMMARY:HRES: Rotini Marin / Chzbrg Quesa / Strwbry Parf
+DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\, V
+ anilla Yogurt & Strawberry Parfait\nGrab and go: Strawberry Yogurt Box\nGr
+ ains: Fresh Baked Dinner Roll\, Whole Grain Tortilla Chips\nVegetables: Ba
+ ked Emoticon Potatoes\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fres
+ h Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -85,9 +74,11 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
- getable Dumplings\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Straw
- berry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Gree
- n Beans\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
+ getable Dumplings\, Crispy Chicken & Cheese Chef Salad\, Vanilla Yogurt & 
+ Strawberry Parfait\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Bake
+ d Dinner Roll\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\
+ nFresh Fruits: Fresh Golden Delicious Apples\, Fresh Cantaloupe\nFresh Veg
+ etables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
