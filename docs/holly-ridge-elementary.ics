@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-17@holly-ridge-lunch
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:HRES: Hot Dog / Brocc Alfrd
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Broccoli Alfredo Pasta\nGr
- ab and go: Strawberry Yogurt Box\nGrains: Garlic Butter Dinner Roll\nVeget
- ables: BBQ Pinto Beans\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Cre
- amy Coleslaw
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-18@holly-ridge-lunch
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -222,11 +210,11 @@ UID:hres-2026-10-12@holly-ridge-lunch
 DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
- nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
- \nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Frui
- ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
+ Cheddar Cheese\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla 
+ Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut
+  French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -236,8 +224,9 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:HRES: Bkd Mozz Ch Sticks / Rotini w/ Marin
 DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
- nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
- i\, Buttered Corn\nFresh Fruits: Fresh Cantaloupe
+ , Crispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGra
+ ins: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccoli\, 
+ Flame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Bananas
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -246,9 +235,10 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
-DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
- etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
- s: Fresh Caprese Salad
+DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\, Cr
+ ispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nVegetab
+ les: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetables: F
+ resh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -256,10 +246,11 @@ UID:hres-2026-10-15@holly-ridge-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nFrui
- ts: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucu
- mber Sticks\nCondiment: Hot Dog Chili
+SUMMARY:HRES: Hot Dog / Grld Ckn Wrap / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Cri
+ spy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nFruits: 
+ 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucumber
+  Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -267,10 +258,10 @@ UID:hres-2026-10-16@holly-ridge-lunch
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
-  Carrots
+SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
+ Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nFruits: Mixe
+ d Fruit\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
