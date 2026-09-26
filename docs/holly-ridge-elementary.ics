@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-18@holly-ridge-lunch
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nFresh Vegetables: Fresh Tossed Salad\, Creamy 
- Coleslaw
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-21@holly-ridge-lunch
 DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20260921
@@ -74,10 +63,10 @@ UID:hres-2026-09-25@holly-ridge-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nFruits: D
- iced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Yogurt Box\, Salsa & String Cheese Box\nFresh Fruits: Fres
+ h Gala Apples\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -322,6 +311,18 @@ SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
  uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
  Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-26@holly-ridge-lunch
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:HRES: Srrcha Honey Popcrn Ckn
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
+ Drumstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetable
+ s: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Del
+ icious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
