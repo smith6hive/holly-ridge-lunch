@@ -337,4 +337,15 @@ DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
  ce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-28@holly-ridge-lunch
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
+DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
+ \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFruits: 1
+ 00% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
