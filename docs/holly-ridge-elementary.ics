@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-21@holly-ridge-lunch
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:HRES: Bkd Ckn Bites / Salsbry Steak
-DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
- \, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\
- nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fri
- es\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-22@holly-ridge-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
@@ -78,9 +66,8 @@ SUMMARY:HRES: Tang Ckn & Bowl / Ckn Tikka Masala
 DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
  ith Rice\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese C
  hef Salad\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed
-  Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\
- , Strawberry\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Froze
- n Fruit Cup\, Strawberry Lemonade
+  Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Sweet Apple Slic
+ es
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -91,8 +78,8 @@ DTEND;VALUE=DATE:20260930
 SUMMARY:HRES: Beef Tacos / Hatch Chili Queso / Strwbry Parf
 DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Vanill
  a Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Salad\nGrains
- : Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruit
- s: Fresh Sweet Apple Slices
+ : Whole Grain Tortilla Chips\nVegetables: Salsa\, Flame Roasted Corn & Jal
+ apeno Blend\nFresh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -103,8 +90,9 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap / Strwbry Parf
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Sa
- lad\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits
- : Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+ lad\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFresh 
+ Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Herb Roasted Fingerlin
+ g Potatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -346,6 +334,17 @@ SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFruits: 1
  00% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-29@holly-ridge-lunch
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:HRES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
+ s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
+ uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
