@@ -8,20 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-22@holly-ridge-lunch
-DTSTAMP:20260922T000000Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:HRMS: Ckn Filet/Spcy / Peach Parf / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese Che
- f Salad\, Beef Nachos\nGrab and go: Hummus & String Cheese Box\nGrains: Wh
- ole Grain Tortilla Chips\nVegetables: Flame Roasted Corn & Jalapeno Blend\
- nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fresh Marinated Tomatoe
- s
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-23@holly-ridge-lunch
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
@@ -80,12 +66,11 @@ UID:hrms-2026-09-29@holly-ridge-lunch
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:HRMS: Ckn Filet/Spcy / Hatch Chili Queso / Peach Parf
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hatch Chili Queso\, Vanilla Yogurt & Peach Parfait\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrain
- s: Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Frui
- ts: Fresh Sweet Apple Slices
+SUMMARY:HRMS: Ch/Pep Piz / Hatch Chili Queso / Peach Parf
+DESCRIPTION:Entrees: Hatch Chili Queso\, Vanilla Yogurt & Peach Parfait\, C
+ rispy Chicken & Cheese Chef Salad\, Stuffed Crust Cheese Pizza\, Pepperoni
+  Pizza\nGrab and go: Strawberry Yogurt Box\nVegetables: Salsa\, Mixed Vege
+ table Medley\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -366,6 +351,21 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
   Meat Sauce\nGrains: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetabl
  e Medley\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Sal
  ad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-30@holly-ridge-lunch
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
+  Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 
+ 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, F
+ ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
+ Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
+ e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
