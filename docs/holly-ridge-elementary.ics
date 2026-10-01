@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-23@holly-ridge-lunch
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:HRES: Rotini Marin / Chzbrg Quesa / Strwbry Parf
-DESCRIPTION:Entrees: Baked Rotini & Marinara\, Cheeseburger Quesadillas\, V
- anilla Yogurt & Strawberry Parfait\nGrab and go: Strawberry Yogurt Box\nGr
- ains: Fresh Baked Dinner Roll\, Whole Grain Tortilla Chips\nVegetables: Ba
- ked Emoticon Potatoes\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fres
- h Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-24@holly-ridge-lunch
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
@@ -75,12 +62,12 @@ UID:hres-2026-09-30@holly-ridge-lunch
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap / Strwbry Parf
+SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Sa
- lad\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFresh 
- Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Herb Roasted Fingerlin
- g Potatoes
+ ap\, Crispy Chicken & Cheese Chef Salad\, Pork Carnitas\nGrab and go: Sals
+ a & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Garlic
+  Sauteed Spinach\nFresh Fruits: Fresh Sweet Apple Slices\nFresh Vegetables
+ : Herb Roasted Fingerling Potatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
