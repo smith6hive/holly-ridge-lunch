@@ -8,20 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-24@holly-ridge-lunch
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:HRES: Gen Tso Ckn Bowl / Ckn Dmplngs
-DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
- getable Dumplings\, Crispy Chicken & Cheese Chef Salad\, Vanilla Yogurt & 
- Strawberry Parfait\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Bake
- d Dinner Roll\nVegetables: Savory Green Beans\, Steamed Buttered Broccoli\
- nFresh Fruits: Fresh Golden Delicious Apples\, Fresh Cantaloupe\nFresh Veg
- etables: Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-25@holly-ridge-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
@@ -75,12 +61,11 @@ UID:hres-2026-10-01@holly-ridge-lunch
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili / Strwbry Parf
+SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Ch
- eese Chef Salad\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegeta
- ble Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pi
- ckled Cucumber Sticks
+ Cheddar Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Garlic Green 
+ Beans\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled
+  Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
