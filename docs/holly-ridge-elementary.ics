@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-25@holly-ridge-lunch
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\, Salsa & String Cheese Box\nFresh Fruits: Fres
- h Gala Apples\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-28@holly-ridge-lunch
 DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
@@ -73,11 +62,10 @@ UID:hres-2026-10-02@holly-ridge-lunch
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:HRES: Ch/Pep Piz / Strwbry Parf / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
-  Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Salad\nFresh F
- ruits: Fresh Bananas\nFresh Vegetables: Fresh Baby Carrots\, Fresh Tossed 
- Salad
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
+ uits: Fresh Sweet Apple Slices\, Fresh Red Delicious Apples\nFresh Vegetab
+ les: Fresh Baby Carrots\, Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -322,6 +310,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
   100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
  h Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-02@holly-ridge-lunch
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:HRES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Frui
+ ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
