@@ -8,20 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-28@holly-ridge-lunch
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:HRMS: Ch/Pep Piz / Tang Ckn & Bowl / Peach Parf
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Tangeri
- ne Chicken & Rice Bowl\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken &
-  Cheese Chef Salad\nGrab and go: Oven Roasted Turkey & Cheese Box\nGrains:
-  Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed
-  Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Strawberry Lemon
- ade
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-29@holly-ridge-lunch
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
@@ -94,10 +80,9 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
- esadillas\, Vanilla Yogurt & Peach Parfait\, Vanilla Yogurt & Strawberry P
- arfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus & String 
- Cheese Box\nVegetables: Flame Roasted Corn & Jalapeno Blend\, Ranch Style 
- Pinto Beans\nFruits: Mixed Fruit
+ esadillas\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef 
+ Salad\nGrab and go: Hummus & String Cheese Box\nVegetables: Flame Roasted 
+ Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -356,10 +341,24 @@ UID:hrms-2026-11-04@holly-ridge-lunch
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:HRMS: Ch/Pep Piz / Carnival Corn Dog Nuggets
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Carniva
- l Corn Dog Nuggets\nVegetables: Baked Sweet Potato Fries\nFruits: Applesau
- ce Cup\nFresh Vegetables: Fresh Caprese Salad
+SUMMARY:HRMS: Ch/Pep Piz / Spaghetti w/ Marin
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Spaghet
+ ti with Marinara\, Spaghetti with Meat Sauce\, Carnival Corn Dog Nuggets\n
+ Grains: Whole Grain Garlic Breadstick\nVegetables: Baked Sweet Potato Frie
+ s\nFruits: Applesauce Cup\nFresh Vegetables: Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-05@holly-ridge-lunch
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Plant Based 3 
+ Bean Chili\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Green Bean
+ s\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\nCond
+ iment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-28@holly-ridge-lunch
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:HRES: Tang Ckn & Bowl / Ckn Tikka Masala
-DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
- ith Rice\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese C
- hef Salad\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed
-  Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Sweet Apple Slic
- es
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-29@holly-ridge-lunch
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
@@ -73,11 +60,11 @@ UID:hres-2026-10-05@holly-ridge-lunch
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:HRES: Srrcha Honey Popcrn Ckn
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
- Drumstick\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Ba
- nana Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Glazed Carro
- ts\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delicious Apples
+SUMMARY:HRES: Srrcha Honey Popcrn Ckn / Bkd Ckn Bites
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Baked Chicken Bites\n
+ Grab and go: Strawberry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fr
+ esh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -340,10 +327,22 @@ UID:hres-2026-11-04@holly-ridge-lunch
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
-DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
- etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
- s: Fresh Caprese Salad
+SUMMARY:HRES: Bkd Ckn Bites / Spaghetti w/ Marin
+DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Marinara\, Spaghe
+ tti with Meat Sauce\nGrains: Whole Grain Garlic Breadstick\nVegetables: Ba
+ ked Sweet Potato Fries\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fre
+ sh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-05@holly-ridge-lunch
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nVege
+ tables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetabl
+ es: Creamy Coleslaw\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
