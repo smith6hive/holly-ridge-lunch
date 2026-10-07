@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-09-29@holly-ridge-lunch
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:HRMS: Ch/Pep Piz / Hatch Chili Queso / Peach Parf
-DESCRIPTION:Entrees: Hatch Chili Queso\, Vanilla Yogurt & Peach Parfait\, C
- rispy Chicken & Cheese Chef Salad\, Stuffed Crust Cheese Pizza\, Pepperoni
-  Pizza\nGrab and go: Strawberry Yogurt Box\nVegetables: Salsa\, Mixed Vege
- table Medley\nFresh Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-09-30@holly-ridge-lunch
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -93,11 +81,10 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:HRMS: Ch/Pep Piz / Dbl Hmbrg / Dbl Chzbrg / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Double 
  Hamburger on Brioche Bun\, Double Cheeseburger on Brioche Bun\, Vanilla Yo
- gurt & Peach Parfait\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicke
- n & Cheese Chef Salad\nGrab and go: Hummus & String Cheese Box\nVegetables
- : Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nGarnish: Shredded Ice
- berg Lettuce\, Sliced Red Onion\, Pickle Chips\, Fresh Sliced Tomatoes\nFr
- esh Vegetables: Fresh Baby Carrots
+ gurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hu
+ mmus & String Cheese Box\nVegetables: Baked Smiley Potatoes\nFruits: 100% 
+ Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\, Sliced Red Onion\, 
+ Pickle Chips\, Fresh Sliced Tomatoes\nFresh Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -359,6 +346,17 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Bean Chili\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Green Bean
  s\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\nCond
  iment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-06@holly-ridge-lunch
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nFruits: Sliced Pears\nFresh Vegetables: Fresh Tossed Sala
+ d\, Sugar Roasted Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

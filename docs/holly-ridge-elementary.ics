@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-09-29@holly-ridge-lunch
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:HRES: Beef Tacos / Hatch Chili Queso / Strwbry Parf
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Vanill
- a Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef Salad\nGrains
- : Whole Grain Tortilla Chips\nVegetables: Salsa\, Flame Roasted Corn & Jal
- apeno Blend\nFresh Fruits: Fresh Oranges
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-09-30@holly-ridge-lunch
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -75,9 +63,9 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:HRES: Ch Quesa / Beef Nachos / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef Nachos\, Crispy Chicken
   & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
- hole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roa
- sted Corn & Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg
-  Lettuce\, Fresh Diced Tomatoes
+ hole Grain Tortilla Chips\nVegetables: Flame Roasted Corn & Jalapeno Blend
+ \, Spicy Black Beans\nFresh Fruits: Fresh Red Delicious Apples\nGarnish: S
+ hredded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -89,8 +77,7 @@ SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\, MorningS
  tar Plant Based Burger\nGrab and go: Strawberry Banana Yogurt Box\nVegetab
- les: Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nFresh Vegetables: 
- Fresh Cucumber Sticks
+ les: Baked Emoticon Potatoes\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -343,6 +330,17 @@ SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nVege
  tables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetabl
  es: Creamy Coleslaw\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-06@holly-ridge-lunch
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ Sliced Pears\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Ca
+ rrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
