@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-01@holly-ridge-lunch
-DTSTAMP:20261001T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Garlic Green 
- Beans\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled
-  Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-02@holly-ridge-lunch
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
@@ -86,11 +74,10 @@ UID:hres-2026-10-09@holly-ridge-lunch
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nVe
- getables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Waterm
- elon\nFresh Vegetables: Fresh Tossed Salad
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Banana Yogurt Box\nFresh Vegetables: Fresh Tossed Salad\, 
+ Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
