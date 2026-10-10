@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-02@holly-ridge-lunch
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese
-  Chef Salad\nGrab and go: Hummus & String Cheese Box\nFresh Fruits: Fresh 
- Oranges\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCon
- diment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-05@holly-ridge-lunch
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
@@ -331,6 +318,22 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\nFruits: Sliced Pears\nFresh Vegetables: Fresh Tossed Sala
  d\, Sugar Roasted Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-09@holly-ridge-lunch
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:HRMS: Ch/Pep Piz / Orange Popcrn Ckn & Bowl
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Orange 
+ Popcorn Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetab
+ les: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice
+  Frozen Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Ch
+ eery\, 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit 
+ Cup\, Fruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice 
+ Frozen Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry 
+ Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
