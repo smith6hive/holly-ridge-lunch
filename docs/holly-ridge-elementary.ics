@@ -324,4 +324,15 @@ DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
  \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-10@holly-ridge-lunch
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
+ Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
+  Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
