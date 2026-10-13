@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-05@holly-ridge-lunch
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:HRES: Srrcha Honey Popcrn Ckn / Bkd Ckn Bites
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Baked Chicken Bites\n
- Grab and go: Strawberry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll
- \nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fr
- esh Oranges
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-06@holly-ridge-lunch
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
@@ -333,6 +321,17 @@ SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
  Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
   Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-12@holly-ridge-lunch
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
+ ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
+ Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

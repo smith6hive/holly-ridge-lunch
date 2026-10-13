@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-05@holly-ridge-lunch
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:HRMS: Ch/Pep Piz / Peach Parf / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
-  Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\, Crispy Bake
- d Chicken Drumstick\nGrab and go: Hummus & Veggie Box\nGrains: Fresh Baked
-  Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nFres
- h Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-06@holly-ridge-lunch
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
@@ -347,6 +334,19 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Nacho Cheese Sauce\nGrains: Whole Grain Tortilla Chips\nVegetables: Street
   Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple S
  lices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-12@holly-ridge-lunch
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Homestyle Bake
+ d Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
+ getable Medley\nFruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cu
+ cumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
