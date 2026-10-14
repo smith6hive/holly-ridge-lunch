@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-06@holly-ridge-lunch
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:HRMS: Ckn Filet/Spcy
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
- esadillas\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef 
- Salad\nGrab and go: Hummus & String Cheese Box\nVegetables: Flame Roasted 
- Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Mixed Fruit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-07@holly-ridge-lunch
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
@@ -65,11 +52,12 @@ UID:hrms-2026-10-13@holly-ridge-lunch
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:HRMS: Peach Parf / Strwbry Parf / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Vanilla Yogurt & Peach Parfait\, Vanilla Yogurt & Stra
- wberry Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus &
-  String Cheese Box\nVegetables: Marinara\, Steamed Broccoli\, Buttered Cor
- n\nFresh Fruits: Fresh Cantaloupe
+SUMMARY:HRMS: Ckn Filet/Spcy / Bkd Mozz Ch Sticks / Peach Parf
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Baked Mozzarella Cheese Sticks\, Vanilla Yogurt & Peach Parf
+ ait\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef S
+ alad\nGrab and go: Hummus & String Cheese Box\nVegetables: Marinara\, Stea
+ med Broccoli\, Seasoned Carrots\nFresh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -347,6 +335,18 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  d Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
  getable Medley\nFruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cu
  cumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-13@holly-ridge-lunch
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nFruits: 100% Apple Cherry Juice\, 100% Apple Juice\, 100%
+  Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nFresh Vegetable
+ s: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

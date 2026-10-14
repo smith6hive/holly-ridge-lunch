@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-06@holly-ridge-lunch
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:HRES: Ch Quesa / Beef Nachos / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef Nachos\, Crispy Chicken
-  & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
- hole Grain Tortilla Chips\nVegetables: Flame Roasted Corn & Jalapeno Blend
- \, Spicy Black Beans\nFresh Fruits: Fresh Red Delicious Apples\nGarnish: S
- hredded Iceberg Lettuce\, Fresh Diced Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-07@holly-ridge-lunch
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
@@ -78,7 +65,7 @@ SUMMARY:HRES: Bkd Mozz Ch Sticks / Rotini w/ Marin
 DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
  , Crispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGra
  ins: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccoli\, 
- Flame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Bananas
+ Flame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -332,6 +319,18 @@ SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
  ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
  Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-13@holly-ridge-lunch
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
+  Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
+ , Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
