@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-07@holly-ridge-lunch
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\, MorningS
- tar Plant Based Burger\nGrab and go: Strawberry Banana Yogurt Box\nVegetab
- les: Baked Emoticon Potatoes\nGarnish: Fresh Sliced Tomatoes\nFresh Vegeta
- bles: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-08@holly-ridge-lunch
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
@@ -75,9 +62,9 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
 DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\, Cr
- ispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nVegetab
- les: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetables: F
- resh Tossed Salad
+ ispy Chicken & Cheese Chef Salad\, Cheeseburger on Brioche Bun\nGrab and g
+ o: Vanilla Yogurt Box\nVegetables: Baked Sweet Potato Fries\nFruits: Apple
+ sauce Cup\nFresh Vegetables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -85,11 +72,11 @@ UID:hres-2026-10-15@holly-ridge-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:HRES: Hot Dog / Grld Ckn Wrap / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Cri
- spy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nFruits: 
- 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucumber
-  Sticks
+SUMMARY:HRES: Grld Ckn Wrap / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Grilled Chicken Wrap\, Crispy Chicken & Cheese Chef Sa
+ lad\, Butterball Twisted Dog\nGrab and go: Vanilla Yogurt Box\nFresh Fruit
+ s: Fresh Sweet Apple Slices\nFresh Vegetables: Creamy Coleslaw\, Fresh Cuc
+ umber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
