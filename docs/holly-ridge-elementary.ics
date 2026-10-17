@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-09@holly-ridge-lunch
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Banana Yogurt Box\nFresh Vegetables: Fresh Tossed Salad\, 
- Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-12@holly-ridge-lunch
 DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
@@ -298,6 +287,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits:
  100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
   Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
  , Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-16@holly-ridge-lunch
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:HRES: BBQ Ckn Drumstick / Carnival Corn Dog
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrains: Fre
+ sh Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Brocco
+ li\nFresh Fruits: Fresh Red Delicious Apples\, Fresh Golden Delicious Appl
+ es\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
