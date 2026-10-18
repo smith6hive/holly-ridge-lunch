@@ -307,4 +307,17 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, BBQ Chi
  esh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-17@holly-ridge-lunch
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
+ esadillas\nVegetables: Flame Roasted Corn & Jalapeno Blend\, Ranch Style P
+ into Beans\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Frui
+ t Blend Juice\, 100% Grape Juice\, 100% Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

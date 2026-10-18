@@ -301,4 +301,17 @@ DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrains: Fre
  es\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-17@holly-ridge-lunch
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:HRES: Beef Nachos / Ch Quesa
+DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
+ rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
+ orn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\,
+  100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGarnish: S
+ hredded Iceberg Lettuce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
