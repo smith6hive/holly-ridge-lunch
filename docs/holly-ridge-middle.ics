@@ -320,4 +320,17 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  t Blend Juice\, 100% Grape Juice\, 100% Orange Juice
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-18@holly-ridge-lunch
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:HRMS: Ch/Pep Piz / Hmbrg/Chzbrg
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
+ er on Brioche Bun\, Cheeseburger on Brioche Bun\nVegetables: Baked Emotico
+ n Potatoes\nFresh Fruits: Fresh Oranges\nGarnish: Shredded Iceberg Lettuce
+ \, Sliced Red Onion\, Pickle Chips\, Fresh Sliced Tomatoes\nFresh Vegetabl
+ es: Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
