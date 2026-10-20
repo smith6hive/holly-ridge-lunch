@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-12@holly-ridge-lunch
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Vanilla 
- Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut
-  French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-13@holly-ridge-lunch
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -73,11 +61,10 @@ DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:HRES: Mandarin Orange Popcrn Ckn / Veggie Lo Mein
-DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\, Van
- illa Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and
-  go: Strawberry Banana Yogurt Box\nGrains: Whole Grain Garlic Flatbread\nV
- egetables: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100%
-  Juice Frozen Fruit Cup\, Watermelon
+DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\, Cri
+ spy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box
+ \nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\
+ , Steamed Buttered Broccoli\nFresh Fruits: Fresh Anjou Pears
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -85,11 +72,11 @@ UID:hres-2026-10-20@holly-ridge-lunch
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:HRES: Beef Tacos / Hatch Chili Queso / Peach Parf
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Vanill
- a Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go
- : Strawberry Banana Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegeta
- bles: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
+SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
+DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Crispy
+  Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nG
+ rains: Whole Grain Tortilla Chips\nVegetables: Salsa\, Flame Roasted Corn 
+ & Jalapeno Blend\nFresh Fruits: Fresh Red Delicious Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -323,6 +310,18 @@ SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFresh Fru
  its: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-19@holly-ridge-lunch
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:HRES: Bkd Ckn Bites
+DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
+ an Gravy\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinner Ro
+ ll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruits: Ap
+ plesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
