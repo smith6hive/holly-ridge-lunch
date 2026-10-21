@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-13@holly-ridge-lunch
-DTSTAMP:20261013T000000Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:HRMS: Ckn Filet/Spcy / Bkd Mozz Ch Sticks / Peach Parf
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Baked Mozzarella Cheese Sticks\, Vanilla Yogurt & Peach Parf
- ait\, Vanilla Yogurt & Strawberry Parfait\, Crispy Chicken & Cheese Chef S
- alad\nGrab and go: Hummus & String Cheese Box\nVegetables: Marinara\, Stea
- med Broccoli\, Seasoned Carrots\nFresh Fruits: Fresh Cantaloupe
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-14@holly-ridge-lunch
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -91,8 +78,9 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:HRMS: Ch/Pep Piz / Grld Ckn Wrap / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Grilled
   Chicken Wrap\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus & 
- String Cheese Box\, Strawberry Yogurt Box\nVegetables: Steamed Broccoli\nF
- resh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Marinated Tomatoes
+ String Cheese Box\, Strawberry Yogurt Box\, Salsa & String Cheese Box\nVeg
+ etables: Steamed Broccoli\nFresh Fruits: Fresh Oranges\nFresh Vegetables: 
+ Fresh Marinated Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +106,8 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus 
  & String Cheese Box\, Strawberry Yogurt Box\nFresh Fruits: Fresh Grapes\nF
- resh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots
+ resh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Ho
+ t Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +115,12 @@ UID:hrms-2026-10-26@holly-ridge-lunch
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:HRMS: Ch/Pep Piz / Crspy Bkd Ckn Drumstick
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Baked Chicken Drumstick\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken 
- & Cheese Chef Salad\nGrab and go: Hummus & Flatbread Box\nGrains: Fresh Ba
- ked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nF
- resh Fruits: Fresh Sweet Apple Slices
+SUMMARY:HRMS: Ch/Pep Piz / Peach Parf / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
+  Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\, Tangerine C
+ hicken & Rice Bowl\nGrab and go: Hummus & Flatbread Box\nGrains: Whole Gra
+ in Garlic Flatbread\nVegetables: Glazed Carrots\, Steamed Buttered Broccol
+ i\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -344,6 +333,21 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
   Tenderloin with Pan Gravy\nGrains: Whole Grain Cornbread Stuffing\, Garli
  c Butter Dinner Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green
   Beans\nFruits: Applesauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-20@holly-ridge-lunch
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
+ all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
+  Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 
+ 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, F
+ ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
+ Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
+ e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
