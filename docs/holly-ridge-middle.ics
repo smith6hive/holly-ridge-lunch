@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-14@holly-ridge-lunch
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:HRMS: Ch/Pep Piz / Carnival Corn Dog Nuggets
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Carniva
- l Corn Dog Nuggets\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Humm
- us & String Cheese Box\nVegetables: Baked Sweet Potato Fries\nFresh Fruits
- : Fresh Tart Apple Slices\nFresh Vegetables: Fresh Caprese Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-15@holly-ridge-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
@@ -90,11 +78,11 @@ DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Hearty Beef & 
- Bean Chili\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box
- \nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFre
- sh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled Cucumber 
- Sticks
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Cheddar Cheese
+  Chef Salad\, Hatch Chili Queso\nGrab and go: Strawberry Yogurt Box\, Sals
+ a & String Cheese Box\, Hummus & String Cheese Box\nVegetables: Mixed Vege
+ table Medley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick 
+ Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -105,9 +93,9 @@ DTEND;VALUE=DATE:20261024
 SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus 
- & String Cheese Box\, Strawberry Yogurt Box\nFresh Fruits: Fresh Grapes\nF
- resh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Ho
- t Dog Chili
+ & String Cheese Box\, Strawberry Yogurt Box\nFruits: Applesauce Cup\nFresh
+  Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Hot Do
+ g Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +121,8 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
  esadillas\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese & Hard Boiled 
  Egg Chef Salad\nGrab and go: Hummus & String Cheese Box\nVegetables: Flame
-  Roasted Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Mixed Fr
- uit
+  Roasted Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Sliced P
+ ears
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

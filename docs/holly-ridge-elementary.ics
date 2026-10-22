@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-14@holly-ridge-lunch
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
-DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\, Cr
- ispy Chicken & Cheese Chef Salad\, Cheeseburger on Brioche Bun\nGrab and g
- o: Vanilla Yogurt Box\nVegetables: Baked Sweet Potato Fries\nFruits: Apple
- sauce Cup\nFresh Vegetables: Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-15@holly-ridge-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
@@ -72,12 +60,12 @@ UID:hres-2026-10-21@holly-ridge-lunch
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap / Peach Parf
+SUMMARY:HRES: Mac & Ch / Grld Ckn Wrap / Hatch Chili Queso
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\n
- Grab and go: Strawberry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll
- \nVegetables: Steamed Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fre
- sh Cucumber Sticks
+ ap\, Hatch Chili Queso\, Beef Nachos\nGrab and go: Strawberry Banana Yogur
+ t Box\nGrains: Fresh Baked Dinner Roll\, Whole Grain Tortilla Chips\nVeget
+ ables: Steamed Broccoli\nFruits: Mixed Fruit\nFresh Vegetables: Fresh Cucu
+ mber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -221,13 +209,11 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:HRES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
-DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
- rains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, S
- teamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry Amer
- ica\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit
-  Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice
-  Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple
- \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\, 
+ Vanilla Yogurt & Blueberry Parfait\, Crispy Chicken & Cheese Chef Salad\nG
+ rab and go: Strawberry Banana Yogurt Box\nGrains: Whole Grain Garlic Flatb
+ read\nVegetables: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruit
+ s: 100% Juice Frozen Fruit Cup\, Watermelon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -235,10 +221,11 @@ UID:hres-2026-11-10@holly-ridge-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
-  Apple Slices\, Fresh Tart Apple Slices
+SUMMARY:HRES: Nacho Ch Sauce / Beef Nachos / Blubry Parf
+DESCRIPTION:Entrees: Nacho Cheese Sauce\, Beef Nachos\, Vanilla Yogurt & Bl
+ ueberry Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawbe
+ rry Banana Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Str
+ eet Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -246,10 +233,12 @@ UID:hres-2026-11-12@holly-ridge-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch
+SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch / Blubry Parf
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
- Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+ ese\, Vanilla Yogurt & Blueberry Parfait\, Crispy Chicken & Cheese Chef Sa
+ lad\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\n
+ Vegetables: Mixed Vegetable Medley\nFruits: Applesauce Cup\nFresh Vegetabl
+ es: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -257,11 +246,11 @@ UID:hres-2026-11-13@holly-ridge-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
-  Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
- , Fresh Baby Carrots
+SUMMARY:HRES: Ch/Pep Piz / Blubry Parf / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
+  Yogurt & Blueberry Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and
+  go: Strawberry Yogurt Box\nFruits: 100% Grape Juice\nFresh Vegetables: Fr
+ esh Baby Carrots\, Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
