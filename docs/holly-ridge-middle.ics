@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-15@holly-ridge-lunch
-DTSTAMP:20261015T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:HRMS: Ckn Filet/Spcy
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Vanilla Yogurt
-  & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus
-  & String Cheese Box\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Cr
- eamy Coleslaw\, Fresh Cucumber Sticks\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-16@holly-ridge-lunch
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
@@ -225,13 +212,11 @@ DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:HRMS: Ch/Pep Piz / Orange Popcrn Ckn & Bowl
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Orange 
- Popcorn Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetab
- les: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice
-  Frozen Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Ch
- eery\, 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit 
- Cup\, Fruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice 
- Frozen Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry 
- Lemonade
+ Popcorn Chicken & Rice Bowl\, Vanilla Yogurt & Mandarin Orange Parfait\, C
+ rispy Chicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\
+ , Hummus & String Cheese Box\nGrains: Whole Grain Garlic Flatbread\nVegeta
+ bles: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juic
+ e Frozen Fruit Cup\, Watermelon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +224,12 @@ UID:hrms-2026-11-10@holly-ridge-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:HRMS: Ckn Filet/Spcy
+SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Beef Nachos\, 
- Nacho Cheese Sauce\nGrains: Whole Grain Tortilla Chips\nVegetables: Street
-  Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple S
- lices
+ Brioche Bun\, Beef Nachos\, Crispy Chicken & Cheese Chef Salad\nGrab and g
+ o: Salsa & String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetabl
+ es: Street Corn\, Salsa\nFresh Fruits: Fresh Tart Apple Slices\nBreakfast 
+ Entree: Mandarin Orange Breakfast Parfait
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -255,9 +240,10 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Homestyle Bake
- d Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
- getable Medley\nFruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cu
- cumber Sticks
+ d Macaroni & Cheese\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Ch
+ eese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Fresh Bak
+ ed Dinner Roll\nVegetables: Mixed Vegetable Medley\nFruits: Applesauce Cup
+ \nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -265,11 +251,12 @@ UID:hrms-2026-11-13@holly-ridge-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nFruits: 100% Apple Cherry Juice\, 100% Apple Juice\, 100%
-  Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nFresh Vegetable
- s: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Hot Dog Chili
+ all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Cheese
+  Chef Salad\nGrab and go: Salsa & String Cheese Box\nFruits: 100% Fruit Bl
+ end Juice\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nC
+ ondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

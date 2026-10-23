@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-15@holly-ridge-lunch
-DTSTAMP:20261015T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:HRES: Hot Dog / Grld Ckn Wrap / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Cri
- spy Chicken & Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nFresh Fr
- uits: Fresh Sweet Apple Slices\nFresh Vegetables: Creamy Coleslaw\, Fresh 
- Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-16@holly-ridge-lunch
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
@@ -258,11 +246,11 @@ UID:hres-2026-11-16@holly-ridge-lunch
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:HRES: BBQ Ckn Drumstick / Carnival Corn Dog
-DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrains: Fre
- sh Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Brocco
- li\nFresh Fruits: Fresh Red Delicious Apples\, Fresh Golden Delicious Appl
- es\, Fresh Gala Apples
+SUMMARY:HRES: BBQ Ckn Drumstick / Blubry Parf
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Vanilla Yogurt & Blueberry Par
+ fait\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana 
+ Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Glazed Carrots\, 
+ Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delicious Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -270,12 +258,12 @@ UID:hres-2026-11-17@holly-ridge-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:HRES: Beef Nachos / Ch Quesa
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
- rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
- orn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\,
-  100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGarnish: S
- hredded Iceberg Lettuce\, Fresh Diced Tomatoes
+SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
+  & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
+ hole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roa
+ sted Corn & Jalapeno Blend\nFruits: 100% Grape Juice\nGarnish: Shredded Ic
+ eberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -283,10 +271,11 @@ UID:hres-2026-11-18@holly-ridge-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFresh Fru
- its: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\nGrab and 
+ go: Strawberry Banana Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFre
+ sh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -296,9 +285,10 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:HRES: Bkd Ckn Bites
 DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
- an Gravy\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinner Ro
- ll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruits: Ap
- plesauce Cup
+ an Gravy\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Ban
+ ana Yogurt Box\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Din
+ ner Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFrui
+ ts: Applesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -306,14 +296,11 @@ UID:hres-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Berry Americ
- a\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit C
- up\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice F
- rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
-  100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
- h Tossed Salad
+SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
+ Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nFr
+ uits: 100% Juice Frozen Fruit Cup\, Watermelon\nFresh Vegetables: Fresh To
+ ssed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
