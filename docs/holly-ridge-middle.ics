@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-16@holly-ridge-lunch
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nGrab and go: Hummus & String Cheese Box\nFresh Fruits: Fr
- esh Oranges\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Car
- rots\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-19@holly-ridge-lunch
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
@@ -323,6 +311,17 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  ruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen 
  Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonad
  e\nFresh Vegetables: Fresh Tossed Salad\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-23@holly-ridge-lunch
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:HRMS: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
+ es: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh 
+ Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

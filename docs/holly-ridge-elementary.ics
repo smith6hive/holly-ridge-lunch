@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-16@holly-ridge-lunch
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld / Hot Dog
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\, Butterball Turkey Hot Dog\nGrab and go: Vani
- lla Yogurt Box\nFresh Fruits: Fresh Anjou Pears\, Fresh Bananas\nFresh Veg
- etables: Fresh Tossed Salad\, Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-19@holly-ridge-lunch
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
@@ -74,10 +62,12 @@ UID:hres-2026-10-23@holly-ridge-lunch
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Banana Yogurt Box\nFresh Fruits: Fresh Bananas\nFresh Vege
- tables: Fresh Baby Carrots\, Fresh Tossed Salad
+SUMMARY:HRES: Ch/Pep Piz / Blubry Parf / Bkd Popcrn Ckn
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
+  Yogurt & Blueberry Parfait\, Baked Popcorn Chicken\nGrab and go: Strawber
+ ry Banana Yogurt Box\, Salsa & String Cheese Box\nGrains: Whole Grain Tort
+ illa Chips\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon\nFresh Vegeta
+ bles: Fresh Baby Carrots\, Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -298,9 +288,19 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nFr
- uits: 100% Juice Frozen Fruit Cup\, Watermelon\nFresh Vegetables: Fresh To
- ssed Salad
+ Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nVe
+ getables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Waterm
+ elon\nFresh Vegetables: Fresh Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-23@holly-ridge-lunch
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:HRES: Hot Dog
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\nVegetables: Baked Crinkle C
+ ut French Fries\, BBQ Pinto Beans\nFruits: Sliced Pears
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
