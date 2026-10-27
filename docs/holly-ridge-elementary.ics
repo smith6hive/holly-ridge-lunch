@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-19@holly-ridge-lunch
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:HRES: Mandarin Orange Popcrn Ckn / Veggie Lo Mein
-DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\, Cri
- spy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box
- \nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\
- , Steamed Buttered Broccoli\nFresh Fruits: Fresh Anjou Pears
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-20@holly-ridge-lunch
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
@@ -75,12 +63,13 @@ UID:hres-2026-10-26@holly-ridge-lunch
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:HRES: Srrcha Honey Popcrn Ckn
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
- Drumstick\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Ba
- nana Yogurt Box\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVeg
- etables: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh G
- olden Delicious Apples
+SUMMARY:HRES: Srrcha Honey Popcrn Ckn / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Chicken & Chee
+ se Chef Salad\, Chicken & Vegetable Dumplings\nGrab and go: Strawberry Ban
+ ana Yogurt Box\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\, Who
+ le Grain Garlic Flatbread\, Whole Grain Tortilla Chips\nVegetables: Glazed
+  Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Golden Delicious
+  Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

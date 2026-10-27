@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-19@holly-ridge-lunch
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:HRMS: Ch/Pep Piz / Orange Popcrn Ckn & Bowl
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Orange 
- Popcorn Chicken & Rice Bowl\, Crispy Chicken & Cheese Chef Salad\nGrab and
-  go: Hummus & String Cheese Box\, Strawberry Yogurt Box\nGrains: Whole Gra
- in Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed Buttered 
- Broccoli\nFresh Fruits: Fresh Golden Delicious Apples
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-20@holly-ridge-lunch
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
@@ -78,12 +65,12 @@ UID:hrms-2026-10-26@holly-ridge-lunch
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:HRMS: Ch/Pep Piz / Peach Parf / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
-  Yogurt & Peach Parfait\, Crispy Chicken & Cheese Chef Salad\, Tangerine C
- hicken & Rice Bowl\nGrab and go: Hummus & Flatbread Box\nGrains: Whole Gra
- in Garlic Flatbread\nVegetables: Glazed Carrots\, Steamed Buttered Broccol
- i\nFresh Fruits: Fresh Sweet Apple Slices
+SUMMARY:HRMS: Ch/Pep Piz / Crspy Ckn Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
+ Chicken & Cheese Chef Salad\, Tangerine Chicken & Rice Bowl\nGrab and go: 
+ Hummus & Flatbread Box\nGrains: Whole Grain Garlic Flatbread\nVegetables: 
+ Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Sweet Appl
+ e Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -94,10 +81,10 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
- esadillas\, Vanilla Yogurt & Peach Parfait\, Cheddar Cheese & Hard Boiled 
- Egg Chef Salad\nGrab and go: Hummus & String Cheese Box\nVegetables: Flame
-  Roasted Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Sliced P
- ears
+ esadillas\, Cheddar Cheese & Hard Boiled Egg Chef Salad\, Vanilla Yogurt &
+  Pineapple Parfait\nGrab and go: Hummus & String Cheese Box\nVegetables: F
+ lame Roasted Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: Slic
+ ed Pears
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
