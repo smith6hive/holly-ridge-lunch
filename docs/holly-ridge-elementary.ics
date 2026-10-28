@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-20@holly-ridge-lunch
-DTSTAMP:20261020T000000Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:HRES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Crispy
-  Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nG
- rains: Whole Grain Tortilla Chips\nVegetables: Salsa\, Flame Roasted Corn 
- & Jalapeno Blend\nFresh Fruits: Fresh Red Delicious Apples
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-21@holly-ridge-lunch
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
@@ -77,9 +65,9 @@ UID:hres-2026-10-27@holly-ridge-lunch
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
-  & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
+SUMMARY:HRES: Ch Quesa / Beef Nachos / Blubry Parf
+DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef Nachos\, Vanilla Yogurt
+  & Blueberry Parfait\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
  hole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roa
  sted Corn & Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg
   Lettuce\, Fresh Diced Tomatoes
@@ -92,9 +80,10 @@ DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\nGrab and 
- go: Strawberry Banana Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFru
- its: 100% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\, Vanilla 
+ Yogurt & Blueberry Parfait\nGrab and go: Strawberry Banana Yogurt Box\nVeg
+ etables: Baked Emoticon Potatoes\, Mixed Vegetable Medley\nFruits: 100% Fr
+ uit Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
