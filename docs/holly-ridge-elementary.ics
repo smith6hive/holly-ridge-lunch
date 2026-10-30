@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-22@holly-ridge-lunch
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:HRES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawber
- ry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed V
- egetable Medley\nFresh Fruits: Fresh Bananas\nFresh Vegetables: Quick Pick
- led Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-23@holly-ridge-lunch
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
@@ -79,10 +66,10 @@ DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:HRES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\, Cris
- py Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\
- nGrains: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFr
- esh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrab 
+ and go: Strawberry Banana Yogurt Box\nGrains: Garlic Butter Dinner Roll\, 
+ Whole Grain Garlic Breadstick\nVegetables: Garlic Sauteed Spinach\nFruits:
+  Applesauce Cup\nFresh Vegetables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
