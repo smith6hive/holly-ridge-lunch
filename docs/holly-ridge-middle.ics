@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-10-23@holly-ridge-lunch
-DTSTAMP:20261023T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Hummus 
- & String Cheese Box\, Strawberry Yogurt Box\nFruits: Applesauce Cup\nFresh
-  Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment: Hot Do
- g Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-10-26@holly-ridge-lunch
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
@@ -94,10 +81,9 @@ DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:HRMS: Ch/Pep Piz / Bkd Popcrn Ckn / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked P
- opcorn Chicken\, Crispy Chicken & Cheese Chef Salad\, Vanilla Yogurt & Pin
- eapple Parfait\nGrab and go: Hummus & String Cheese Box\nGrains: Fresh Bak
- ed Dinner Roll\nVegetables: BBQ Pinto Beans\, Baked Emoticon Potatoes\nFre
- sh Fruits: Fresh Sweet Apple Slices
+ opcorn Chicken\, Crispy Chicken & Cheese Chef Salad\nGrains: Fresh Baked D
+ inner Roll\nVegetables: BBQ Pinto Beans\, Baked Emoticon Potatoes\nFresh F
+ ruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -278,6 +264,22 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-11-30@holly-ridge-lunch
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:HRMS: Ch/Pep Piz / Orange Popcrn Ckn & Bowl
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Orange 
+ Popcorn Chicken & Rice Bowl\nGrains: Whole Grain Garlic Flatbread\nVegetab
+ les: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice
+  Frozen Fruit Cup\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Ch
+ eery\, 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit 
+ Cup\, Fruit Punch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice 
+ Frozen Fruit Cup\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry 
+ Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
