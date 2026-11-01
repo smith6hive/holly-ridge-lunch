@@ -238,8 +238,18 @@ DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:HRES: Hot Dog
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\nVegetables: Baked Crinkle C
- ut French Fries\, BBQ Pinto Beans\nFruits: Sliced Pears
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\nGrab and go: Strawberry Yog
+ urt Box\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFru
+ its: Sliced Pears
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-11-24@holly-ridge-lunch
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:HRES: Strwbry Yogurt Box
+DESCRIPTION:Grab and go: Strawberry Yogurt Box
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -255,6 +265,17 @@ DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
   Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice
   Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple
  \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-01@holly-ridge-lunch
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
+ Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
+  Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
