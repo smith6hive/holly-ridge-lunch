@@ -295,4 +295,15 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  lices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-02@holly-ridge-lunch
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:HRMS: Ch/Pep Piz / Grld Ckn Wrap
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Grilled
+  Chicken Wrap\nVegetables: Steamed Broccoli\nFruits: Mixed Fruit\nFresh Ve
+ getables: Fresh Marinated Tomatoes\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
