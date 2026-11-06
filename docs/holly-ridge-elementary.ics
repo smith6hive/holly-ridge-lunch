@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-29@holly-ridge-lunch
-DTSTAMP:20261029T000000Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:HRES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrab 
- and go: Strawberry Banana Yogurt Box\nGrains: Garlic Butter Dinner Roll\, 
- Whole Grain Garlic Breadstick\nVegetables: Garlic Sauteed Spinach\nFruits:
-  Applesauce Cup\nFresh Vegetables: Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-10-30@holly-ridge-lunch
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -61,11 +49,10 @@ UID:hres-2026-11-05@holly-ridge-lunch
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:HRES: Hot Dog / Grld Ckn Wrap / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Cri
- spy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box
- \nVegetables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Ve
- getables: Creamy Coleslaw
+SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nGrab
+  and go: Strawberry Banana Yogurt Box\nVegetables: Savory Green Beans\nFru
+ its: 100% Fruit Blend Juice\, 100% Grape Juice\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -219,12 +206,10 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:HRES: Orange Popcrn Ckn & Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Chicken & Vegetab
- le Dumplings\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Gla
- zed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit C
- up\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Jui
- ce Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Pun
- ch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cu
- p\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+ le Dumplings\, Vanilla Yogurt & Peach Parfait\nGrab and go: Strawberry Yog
+ urt Box\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed C
+ arrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, 
+ Black Cheery
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -232,11 +217,11 @@ UID:hres-2026-12-01@holly-ridge-lunch
 DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Buttered Corn\, Cuban Seasoned Black Beans\nFr
- esh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment:
-  Salsa
+SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce / Peach Parf
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\, Vanilla Yogurt & Pe
+ ach Parfait\nGrab and go: Strawberry Banana Yogurt Box\nGrains: Whole Grai
+ n Tortilla Chips\nVegetables: Buttered Corn\, Cuban Seasoned Black Beans\n
+ Fruits: Strawberry Applesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -244,10 +229,10 @@ UID:hres-2026-12-02@holly-ridge-lunch
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:HRES: Mac & Ch / Ch Filled Piz Sticks
+SUMMARY:HRES: Mac & Ch / Ch Filled Piz Sticks / Peach Parf
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Cheese Filled Pizz
- a Sticks\nGrains: Fresh Baked Dinner Roll\nVegetables: Marinara\, Steamed 
- Broccoli\, Savory Green Beans\nFruits: Strawberry Cup
+ a Sticks\, Vanilla Yogurt & Peach Parfait\nVegetables: Marinara\, Savory G
+ reen Beans\, Steamed Broccoli\nFruits: Strawberry Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -257,8 +242,9 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:HRES: Bkd Popcrn Ckn / Hot Dog
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Butterball Turkey Hot Dog\nGra
- ins: Fresh Baked Dinner Roll\nVegetables: Vegetarian Baked Beans\, Baked C
- rinkle Cut French Fries\nFruits: Diced Peaches
+ b and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetabl
+ es: Vegetarian Baked Beans\, Baked Crinkle Cut French Fries\nFruits: 100% 
+ Apple Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -267,10 +253,9 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Mixed Vegetable Medley\nFruits: 100% Apple Juice\, 100% Apple Cherry J
- uice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nFres
- h Vegetables: Fresh Baby Carrots
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Yogurt Box\nVegetables: Mixed Vegetable Medley\, Seasoned 
+ Carrots\nFruits: 100% Fruit Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
