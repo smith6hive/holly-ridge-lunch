@@ -8,19 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-10-30@holly-ridge-lunch
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:HRES: Ch/Pep Piz / Bkd Ckn Bites / Beef Nachos
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\, Beef Nachos\nGrab and go: Strawberry Banana Yogurt Box\, Sa
- lsa & String Cheese Box\nGrains: Fresh Baked Dinner Roll\, Whole Grain Tor
- tilla Chips\nFruits: 100% Juice Frozen Fruit Cup\, Strawberry\, 100% Grape
-  Juice\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-02@holly-ridge-lunch
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -60,11 +47,10 @@ UID:hres-2026-11-06@holly-ridge-lunch
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nFr
- uits: Sliced Pears\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carr
- ots
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Banana Yogurt Box\nVegetables: Mixed Vegetable Medley\nFru
+ its: Sliced Pears\nFresh Vegetables: Sugar Roasted Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -256,6 +242,18 @@ SUMMARY:HRES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
   go: Strawberry Yogurt Box\nVegetables: Mixed Vegetable Medley\, Seasoned 
  Carrots\nFruits: 100% Fruit Blend Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-07@holly-ridge-lunch
+DTSTAMP:20261207T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:HRES: BBQ Ckn Drumstick / Carnival Corn Dog
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrains: Fre
+ sh Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Brocco
+ li\nFresh Fruits: Fresh Red Delicious Apples\, Fresh Golden Delicious Appl
+ es\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
