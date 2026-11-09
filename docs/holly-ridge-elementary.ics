@@ -269,4 +269,15 @@ DESCRIPTION:Entrees: Nacho Cheese Sauce\, Mini Cheese Quesadillas\nGrains:
  nish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-09@holly-ridge-lunch
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:HRES: Hmbrg/Chzbrg / MorningStar Burger / Grld Ch
+DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
+ \, MorningStar Plant Based Burger\, Grilled Cheese Sandwich\nVegetables: B
+ aked Emoticon Potatoes\, Tomato Soup\nFresh Fruits: Fresh Oranges
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
