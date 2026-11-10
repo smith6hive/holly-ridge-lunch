@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-02@holly-ridge-lunch
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:HRMS: Ch/Pep Piz / Bkd Popcrn Ckn / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked P
- opcorn Chicken\, Crispy Chicken & Cheese Chef Salad\nGrains: Fresh Baked D
- inner Roll\nVegetables: BBQ Pinto Beans\, Baked Emoticon Potatoes\nFresh F
- ruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-04@holly-ridge-lunch
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -75,10 +63,9 @@ DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Beef Nachos\, Crispy Chicken & Cheese Chef Salad\nGrab and g
- o: Salsa & String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetabl
- es: Street Corn\, Salsa\nFresh Fruits: Fresh Tart Apple Slices\nBreakfast 
- Entree: Mandarin Orange Breakfast Parfait
+ Brioche Bun\, Beef Nachos\, Vanilla Yogurt & Mandarin Orange Parfait\nGrai
+ ns: Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFruits: D
+ iced Peaches
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -89,10 +76,10 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Homestyle Bake
- d Macaroni & Cheese\, Vanilla Yogurt & Peach Parfait\, Crispy Chicken & Ch
- eese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Fresh Bak
- ed Dinner Roll\nVegetables: Mixed Vegetable Medley\nFruits: Applesauce Cup
- \nFresh Vegetables: Quick Pickled Cucumber Sticks
+ d Macaroni & Cheese\, Vanilla Yogurt & Peach Parfait\nGrab and go: Hummus 
+ & String Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Ve
+ getable Medley\nFruits: Pineapple Tidbits\nFresh Vegetables: Quick Pickled
+  Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -291,6 +278,19 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
  n Potatoes\nFresh Fruits: Fresh Oranges\nGarnish: Shredded Iceberg Lettuce
  \, Sliced Red Onion\, Pickle Chips\, Fresh Sliced Tomatoes\nFresh Vegetabl
  es: Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-10@holly-ridge-lunch
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Spaghetti with
+  Marinara\, Spaghetti with Meat Sauce\nGrains: Whole Grain Garlic Breadsti
+ ck\nVegetables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Ve
+ getables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
