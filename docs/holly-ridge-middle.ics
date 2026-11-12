@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-04@holly-ridge-lunch
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:HRMS: Ch/Pep Piz / Spaghetti w/ Meat Sauce
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Spaghet
- ti with Meat Sauce\, Vanilla Yogurt & Peach Parfait\nGrab and go: Hummus &
-  String Cheese Box\nGrains: Whole Grain Garlic Breadstick\nVegetables: Bak
- ed Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetables: Fresh Rom
- aine Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-05@holly-ridge-lunch
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105

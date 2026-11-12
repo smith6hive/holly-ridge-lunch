@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-04@holly-ridge-lunch
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:HRES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
-DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\nGrab 
- and go: Strawberry Banana Yogurt Box\nGrains: Whole Grain Garlic Breadstic
- k\nVegetables: Baked Sweet Potato Fries\, Garlic Sauteed Spinach\nFruits: 
- Diced Peaches
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-05@holly-ridge-lunch
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
