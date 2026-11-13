@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-05@holly-ridge-lunch
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nGrab
-  and go: Strawberry Banana Yogurt Box\nVegetables: Savory Green Beans\nFru
- its: 100% Fruit Blend Juice\, 100% Grape Juice\nCondiment: Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-06@holly-ridge-lunch
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -50,8 +39,8 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:HRES: Nacho Ch Sauce / Beef Nachos
 DESCRIPTION:Entrees: Nacho Cheese Sauce\, Beef Nachos\, Baked Mozzarella Ch
  eese Sticks\, Vanilla Yogurt & Peach Parfait\nGrab and go: Strawberry Bana
- na Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Street Corn
- \, Salsa\nFruits: Diced Peaches
+ na Yogurt Box\nGrains: WG Tortilla Chips\nVegetables: Street Corn\, Salsa\
+ nFruits: Diced Peaches
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -61,10 +50,9 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch / Blubry Parf
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\, Vanilla Yogurt & Blueberry Parfait\, Crispy Chicken & Cheese Chef Sa
- lad\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\n
- Vegetables: Mixed Vegetable Medley\nFruits: Applesauce Cup\nFresh Vegetabl
- es: Quick Pickled Cucumber Sticks
+ ese\, Vanilla Yogurt & Blueberry Parfait\nGrab and go: Strawberry Yogurt B
+ ox\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\, 
+ Creamy Spinach\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -72,10 +60,10 @@ UID:hres-2026-11-13@holly-ridge-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:HRES: Pep Piz / Old School Style Ch Piz
-DESCRIPTION:Entrees: Pepperoni Pizza\, Old School Style Cheese Pizza\nGrab 
- and go: Strawberry Yogurt Box\nVegetables: Buttered Carrot Coins\, Mixed V
- egetable Medley\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon
+SUMMARY:HRES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Yogurt Box\nVegetables: Buttered Carrot Coins\, Steamed Br
+ occoli\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -98,9 +86,9 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
   & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nGrains: W
- hole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roa
- sted Corn & Jalapeno Blend\nFruits: 100% Grape Juice\nGarnish: Shredded Ic
- eberg Lettuce\, Fresh Diced Tomatoes
+ G Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn
+  & Jalapeno Blend\nFruits: 100% Grape Juice\nGarnish: Shredded Iceberg Let
+ tuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -180,9 +168,9 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce / Peach Parf
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\, Vanilla Yogurt & Pe
- ach Parfait\nGrab and go: Strawberry Banana Yogurt Box\nGrains: Whole Grai
- n Tortilla Chips\nVegetables: Buttered Corn\, Cuban Seasoned Black Beans\n
- Fruits: Strawberry Applesauce Cup
+ ach Parfait\nGrab and go: Strawberry Banana Yogurt Box\nGrains: WG Tortill
+ a Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFruits: Strawbe
+ rry Applesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -238,10 +226,10 @@ DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:HRES: Nacho Ch Sauce / Ch Quesa
 DESCRIPTION:Entrees: Nacho Cheese Sauce\, Mini Cheese Quesadillas\nGrains: 
- Whole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Ro
- asted Corn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry 
- Juice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGar
- nish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+ WG Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Cor
+ n & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\, 1
+ 00% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGarnish: Shr
+ edded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -262,9 +250,9 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:HRES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
 DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Spag
- hetti with Marinara\nGrains: Whole Grain Garlic Breadstick\nVegetables: Sa
- vory Green Beans\nFruits: Strawberry Cup\nFresh Vegetables: Fresh Baby Car
- rots\nCondiment: Cranberry Sauce
+ hetti with Marinara\nGrains: WG Garlic Breadstick\nVegetables: Savory Gree
+ n Beans\nFruits: Strawberry Cup\nFresh Vegetables: Fresh Baby Carrots\nCon
+ diment: Cranberry Sauce
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
