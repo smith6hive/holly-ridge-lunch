@@ -268,4 +268,15 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  ruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-15@holly-ridge-lunch
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:HRES: Beef Nachos / Nacho Ch Sauce
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: WG Tortilla 
+ Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFresh Fruits: Fre
+ sh Oranges\nCondiment: Salsa
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

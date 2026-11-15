@@ -276,4 +276,16 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked P
  ices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-15@holly-ridge-lunch
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Beef Nachos\, 
+ Nacho Cheese Sauce\nGrains: WG Tortilla Chips\nVegetables: Seasoned Black 
+ Beans\, Buttered Corn\nFresh Fruits: Fresh Oranges
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
