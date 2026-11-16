@@ -279,4 +279,15 @@ DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: WG Tortilla
  sh Oranges\nCondiment: Salsa
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-16@holly-ridge-lunch
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:HRES: Bkd Mozz Ch Sticks / Rotini w/ Marin
+DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
+ nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
+ i\nFresh Fruits: Fresh Cantaloupe
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

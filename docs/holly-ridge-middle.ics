@@ -288,4 +288,15 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Beans\, Buttered Corn\nFresh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-16@holly-ridge-lunch
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:HRMS: Ch/Pep Piz / Rotini Marin
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked R
+ otini & Marinara\nGrains: WG Garlic Breadstick\nFresh Fruits: Fresh Cantal
+ oupe\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
