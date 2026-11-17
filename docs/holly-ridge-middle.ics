@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-09@holly-ridge-lunch
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:HRMS: Ch/Pep Piz / Orange Popcrn Ckn & Bowl
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Orange 
- Popcorn Chicken & Rice Bowl\, Vanilla Yogurt & Mandarin Orange Parfait\nGr
- ains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, St
- eamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-10@holly-ridge-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -63,11 +51,11 @@ UID:hrms-2026-11-16@holly-ridge-lunch
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:HRMS: Ch/Pep Piz / BBQ Ckn Drumstick
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, BBQ Chi
- cken Drumstick\nGrab and go: Hummus & String Cheese Box\nGrains: Fresh Bak
- ed Dinner Roll\nVegetables: Steamed Buttered Broccoli\nFresh Fruits: Fresh
-  Grapes\nFresh Vegetables: Fresh Baby Carrots
+SUMMARY:HRMS: Ch/Pep Piz / Bkd Ckn Drumstick
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
+ hicken Drumstick\nGrab and go: Hummus & String Cheese Box\nGrains: Fresh B
+ aked Dinner Roll\nVegetables: Steamed Buttered Broccoli\nFresh Fruits: Fre
+ sh Grapes\nFresh Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -297,6 +285,17 @@ SUMMARY:HRMS: Ch/Pep Piz / Rotini Marin
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked R
  otini & Marinara\nGrains: WG Garlic Breadstick\nFresh Fruits: Fresh Cantal
  oupe\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-17@holly-ridge-lunch
+DTSTAMP:20261217T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\nVegetables: Ste
+ amed Buttered Broccoli\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
