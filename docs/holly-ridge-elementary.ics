@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-10@holly-ridge-lunch
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:HRES: Nacho Ch Sauce / Beef Nachos
-DESCRIPTION:Entrees: Nacho Cheese Sauce\, Beef Nachos\, Baked Mozzarella Ch
- eese Sticks\, Vanilla Yogurt & Peach Parfait\nGrab and go: Strawberry Bana
- na Yogurt Box\nGrains: WG Tortilla Chips\nVegetables: Street Corn\, Salsa\
- nFruits: Diced Peaches
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-12@holly-ridge-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -59,9 +47,9 @@ UID:hres-2026-11-17@holly-ridge-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:HRES: Ch Quesa / Crspy Ckn Chef Sld / Beef Tacos
-DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Crispy Chicken & Cheese Chef
-  Salad\, Beef & Cheddar Soft Tacos\nGrab and go: Strawberry Banana Yogurt 
+SUMMARY:HRES: Ch Quesa / Beef Tacos / Blubry Parf
+DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef & Cheddar Soft Tacos\, 
+ Vanilla Yogurt & Blueberry Parfait\nGrab and go: Strawberry Banana Yogurt 
  Box\nVegetables: Ranch Style Pinto Beans\, Buttered Corn\nFruits: Mixed Fr
  uit
 TRANSP:TRANSPARENT
@@ -287,6 +275,18 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:HRES: Strwbry Yogurt Box w/ Crackers
 DESCRIPTION:Entrees: Strawberry Yogurt Box with Crackers\, Crispy Chicken &
   Cheese Chef Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-12-18@holly-ridge-lunch
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:HRES: Ch/Pep Piz / Strwbry Yogurt Box w/ Crackers
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Strawbe
+ rry Yogurt Box with Crackers\, Crispy Chicken & Cheese Chef Salad\nFruits:
+  100% Juice Frozen Fruit Cup\, Black Cheery\nFresh Vegetables: Fresh Baby 
+ Carrots\, Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-10@holly-ridge-lunch
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Beef Nachos\, Vanilla Yogurt & Mandarin Orange Parfait\nGrai
- ns: WG Tortilla Chips\nVegetables: Street Corn\, Salsa\nFruits: Diced Peac
- hes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-12@holly-ridge-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -65,9 +53,9 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:HRMS: Ckn Filet/Spcy / Ch Quesa / Blubry Parf
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Mini Cheese Quesadillas\, Vanilla Yogurt & Fresh Blueberry P
- arfait\nVegetables: Flame Roasted Corn & Jalapeno Blend\, Ranch Style Pint
- o Beans\nFruits: 100% Apple Juice
+ Brioche Bun\, Mini Cheese Quesadillas\, Vanilla Yogurt & Blueberry Parfait
+ \nGrab and go: Hummus & String Cheese Box\nVegetables: Flame Roasted Corn 
+ & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: 100% Fruit Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -78,9 +66,8 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:HRMS: Ch/Pep Piz / Hmbrg/Chzbrg / Blubry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
  er on Brioche Bun\, Cheeseburger on Brioche Bun\, Vanilla Yogurt & Fresh B
- lueberry Parfait\nVegetables: Baked Emoticon Potatoes\nFresh Fruits: Fresh
-  Oranges\nGarnish: Shredded Iceberg Lettuce\, Sliced Red Onion\, Pickle Ch
- ips\, Fresh Sliced Tomatoes\nFresh Vegetables: Fresh Baby Carrots
+ lueberry Parfait\nVegetables: Baked Sweet Potato Fries\nFruits: Diced Peac
+ hes\nGarnish: Pickle Chips\nFresh Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -91,9 +78,9 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Roasted Turkey Tenderloin with Pan Gravy\, Vanilla Yogurt & 
- Fresh Blueberry Parfait\nGrains: Whole Grain Cornbread Stuffing\, Garlic B
- utter Dinner Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Be
- ans\nFruits: Applesauce Cup
+ Peach Parfait\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinn
+ er Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruit
+ s: Pineapple Tidbits\nCondiment: Cranberry Sauce
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -101,11 +88,11 @@ UID:hrms-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen
-  Fruit Cup\, Strawberry\nFresh Vegetables: Fresh Tossed Salad\nCondiment: 
- Hot Dog Chili
+ all Double Dogs\, Vanilla Yogurt & Peach Parfait\nVegetables: Garlic Green
+  Beans\nFruits: 100% Juice Frozen Fruit Cup\, Strawberry\nFresh Vegetables
+ : Fresh Tossed Salad\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +102,9 @@ DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:HRMS: Ch/Pep Piz / Nacho Ch Sauce / Blubry Parf
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Nacho C
- heese Sauce\, Vanilla Yogurt & Blueberry Parfait\nVegetables: Baked Crinkl
- e Cut French Fries\, BBQ Pinto Beans\nFruits: Mandarin Oranges
+ heese Sauce\, Vanilla Yogurt & Blueberry Parfait\nGrains: WG Tortilla Chip
+ s\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Fru
+ its: Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -124,11 +112,11 @@ UID:hrms-2026-11-24@holly-ridge-lunch
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:HRMS: Ckn Filet/Spcy
+SUMMARY:HRMS: Ckn Filet/Spcy / Blubry Parf / Ckn Egg Rolls
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Vanilla Yogurt
-  & Blueberry Parfait\nVegetables: Savory Green Beans\, Baked Sweet Potato 
- Fries\nFruits: 100% Fruit Blend Juice
+ Brioche Bun\, Vanilla Yogurt & Blueberry Parfait\, Chicken Egg Rolls\nVege
+ tables: Savory Green Beans\, Baked Sweet Potato Fries\nFruits: 100% Fruit 
+ Blend Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -151,9 +139,9 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Nacho Cheese S
- auce\nGrains: WG Tortilla Chips\nVegetables: Seasoned Black Beans\, Flame 
- Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Sweet Apple Slices\nCon
- diment: Salsa
+ auce\nGrab and go: Salsa & String Cheese Box\nGrains: WG Tortilla Chips\nV
+ egetables: Seasoned Black Beans\, Flame Roasted Corn & Jalapeno Blend\nFre
+ sh Fruits: Fresh Sweet Apple Slices\nCondiment: Salsa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +151,8 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:HRMS: Ch/Pep Piz / Grld Ch
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Grilled
-  Cheese Sandwich\nVegetables: Tomato Soup\, Steamed Broccoli\nFruits: Mixe
- d Fruit
+  Cheese Sandwich\nGrab and go: Hummus & String Cheese Box\nVegetables: Tom
+ ato Soup\, Steamed Broccoli\nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -175,8 +163,9 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Homestyle Bake
- d Macaroni & Cheese\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Cr
- inkle Cut French Fries\nFruits: Strawberry Cup
+ d Macaroni & Cheese\nGrab and go: Hummus & String Cheese Box\nGrains: Fres
+ h Baked Dinner Roll\nVegetables: Baked Crinkle Cut French Fries\nFruits: S
+ trawberry Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -186,8 +175,8 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nVegetables: Mixed Vegetable Medley\, Maple & Sage Glazed 
- Carrots\nFruits: 100% Apple Juice
+ all Double Dogs\nGrab and go: Hummus & String Cheese Box\nVegetables: Mixe
+ d Vegetable Medley\, Maple & Sage Glazed Carrots\nFruits: 100% Apple Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -210,9 +199,9 @@ DTEND;VALUE=DATE:20261209
 SUMMARY:HRMS: Ckn Filet/Spcy
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
  Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Mini Cheese Qu
- esadillas\, Cheddar Cheese & Hard Boiled Egg Chef Salad\nVegetables: Flame
-  Roasted Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: 100% Fru
- it Blend Juice
+ esadillas\, Crispy Chicken & Cheese Chef Salad\nVegetables: Flame Roasted 
+ Corn & Jalapeno Blend\, Ranch Style Pinto Beans\nFruits: 100% Fruit Blend 
+ Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -259,9 +248,9 @@ DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:HRMS: Ch/Pep Piz / Bkd Popcrn Ckn
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked P
- opcorn Chicken\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Green 
- Beans\, Baked Crinkle Cut French Fries\nFresh Fruits: Fresh Sweet Apple Sl
- ices\, Fresh Tart Apple Slices
+ opcorn Chicken\nGrab and go: Hummus & String Cheese Box\nGrains: Fresh Bak
+ ed Dinner Roll\nVegetables: Savory Green Beans\, Baked Crinkle Cut French 
+ Fries\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -269,11 +258,11 @@ UID:hrms-2026-12-15@holly-ridge-lunch
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:HRMS: Ckn Filet/Spcy
+SUMMARY:HRMS: Ckn Filet/Spcy / Beef Nachos
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Beef Nachos\, 
- Nacho Cheese Sauce\nGrains: WG Tortilla Chips\nVegetables: Seasoned Black 
- Beans\, Buttered Corn\nFresh Fruits: Fresh Oranges
+ Brioche Bun\, Beef Nachos\nGrab and go: Hummus & String Cheese Box\nGrains
+ : WG Tortilla Chips\nVegetables: Seasoned Black Beans\, Buttered Corn\nFre
+ sh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -283,8 +272,9 @@ DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:HRMS: Ch/Pep Piz / Rotini Marin
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked R
- otini & Marinara\nGrains: WG Garlic Breadstick\nFresh Fruits: Fresh Cantal
- oupe\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots
+ otini & Marinara\nGrab and go: Hummus & String Cheese Box\nGrains: WG Garl
+ ic Breadstick\nFresh Fruits: Fresh Cantaloupe\nFresh Vegetables: Fresh Tos
+ sed Salad\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -292,10 +282,23 @@ UID:hrms-2026-12-17@holly-ridge-lunch
 DTSTAMP:20261217T000000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:HRMS: Ckn Filet/Spcy
+SUMMARY:HRMS: Ckn Filet/Spcy / Hatch Chili Queso
 DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\nVegetables: Ste
- amed Buttered Broccoli\nCondiment: Hot Dog Chili
+ Brioche Bun\, Hatch Chili Queso\nGrab and go: Hummus & String Cheese Box\n
+ Grains: WG Tortilla Chips\nVegetables: Steamed Buttered Broccoli\, Baked C
+ rinkle Cut French Fries\nFresh Fruits: Fresh Red Delicious Apples
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-12-18@holly-ridge-lunch
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:HRMS: Ch/Pep Piz / Ckn Egg Rolls
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Chicken
+  Egg Rolls\nGrab and go: Hummus & String Cheese Box\nVegetables: Buttered 
+ Corn\nFresh Fruits: Fresh Tart Apple Slices\nFresh Vegetables: Fresh Baby 
+ Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
