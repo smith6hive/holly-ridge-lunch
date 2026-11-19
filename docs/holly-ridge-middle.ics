@@ -88,11 +88,12 @@ UID:hrms-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf
+SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf / Chzbrg
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Vanilla Yogurt & Peach Parfait\nVegetables: Garlic Green
-  Beans\nFruits: 100% Juice Frozen Fruit Cup\, Strawberry\nFresh Vegetables
- : Fresh Tossed Salad\nCondiment: Hot Dog Chili
+ all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Cheeseburger on Brioche
+  Bun\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\
+ , Strawberry\nFresh Vegetables: Fresh Marinated Tomatoes\nCondiment: Hot D
+ og Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

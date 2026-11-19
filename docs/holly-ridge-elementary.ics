@@ -59,11 +59,11 @@ UID:hres-2026-11-18@holly-ridge-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch / Crspy Ckn Chef Sld
+SUMMARY:HRES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Crispy Chicken & Cheese Chef Salad\nGrab and 
- go: Strawberry Banana Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFre
- sh Fruits: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\nGrab and go: Strawberry Banana Yogurt Box\nVeg
+ etables: Baked Emoticon Potatoes\, Tomato Soup\, Mixed Vegetable Medley\nF
+ resh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -73,10 +73,9 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:HRES: Bkd Ckn Bites
 DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
- an Gravy\, Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Ban
- ana Yogurt Box\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Din
- ner Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFrui
- ts: Applesauce Cup
+ an Gravy\nGrab and go: Strawberry Banana Yogurt Box\nGrains: Whole Grain C
+ ornbread Stuffing\, Garlic Butter Dinner Roll\nVegetables: Homestyle Mashe
+ d Potatoes\, Savory Green Beans\nFruits: Cinnamon Baked Apple Crisp
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
