@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-12@holly-ridge-lunch
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:HRES: Bkd Popcrn Ckn / Mac & Ch / Blubry Parf
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\, Vanilla Yogurt & Blueberry Parfait\nGrab and go: Strawberry Yogurt B
- ox\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\, 
- Creamy Spinach\nFruits: Mixed Fruit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-13@holly-ridge-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113

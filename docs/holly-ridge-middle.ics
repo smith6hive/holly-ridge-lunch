@@ -8,21 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-12@holly-ridge-lunch
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:HRMS: Ckn Filet/Spcy
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Homestyle Bake
- d Macaroni & Cheese\, Vanilla Yogurt & Peach Parfait\nGrab and go: Strawbe
- rry Yogurt Box\nGrains: Fresh Baked Dinner Roll\, WG Tortilla Chips\nVeget
- ables: Mixed Vegetable Medley\nFresh Fruits: Fresh Oranges\nFruits: Pineap
- ple Tidbits\nFresh Vegetables: Quick Pickled Cucumber Sticks\, Fresh Romai
- ne Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-13@holly-ridge-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -92,8 +77,7 @@ SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf / Chzbrg
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
  all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Cheeseburger on Brioche
   Bun\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\
- , Strawberry\nFresh Vegetables: Fresh Marinated Tomatoes\nCondiment: Hot D
- og Chili
+ , Strawberry\nFresh Vegetables: Fresh Marinated Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
