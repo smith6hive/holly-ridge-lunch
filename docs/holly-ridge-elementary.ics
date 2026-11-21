@@ -8,17 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-13@holly-ridge-lunch
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:HRES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nVegetables: Buttered Carrot Coins\, Steamed Br
- occoli\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-16@holly-ridge-lunch
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -71,11 +60,13 @@ UID:hres-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:HRES: Ch/Pep Piz / Crspy Ckn Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Crispy 
- Chicken & Cheese Chef Salad\nGrab and go: Strawberry Banana Yogurt Box\nVe
- getables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Waterm
- elon\nFresh Vegetables: Fresh Tossed Salad
+SUMMARY:HRES: Ch/Pep Piz / Bkd Ckn Bites / Beef Nachos
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
+ hicken Bites\, Beef Nachos\nGrab and go: Strawberry Banana Yogurt Box\nGra
+ ins: Fresh Baked Dinner Roll\, WG Tortilla Chips\nFresh Fruits: Fresh Gala
+  Apples\, Fresh Oranges\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon\
+ , Diced Peaches\, Blueberry Cup\nFresh Vegetables: Fresh Tossed Salad\, Fr
+ esh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

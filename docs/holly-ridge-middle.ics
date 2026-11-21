@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-13@holly-ridge-lunch
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\nGrab and go: Vanilla Yogurt Box\nFruits: 100% Apple Juice
- \nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\nCondiment:
-  Hot Dog Chili
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-16@holly-ridge-lunch
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
