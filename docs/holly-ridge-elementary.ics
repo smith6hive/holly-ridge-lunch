@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-16@holly-ridge-lunch
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:HRES: BBQ Ckn Drumstick / Blubry Parf
-DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Vanilla Yogurt & Blueberry Par
- fait\, Crispy Chicken & Cheese Chef Salad\, Carnival Corn Dog\nGrab and go
- : Strawberry Banana Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetable
- s: Glazed Carrots\, Steamed Buttered Broccoli\nFruits: Diced Peaches
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-17@holly-ridge-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -74,10 +62,11 @@ UID:hres-2026-11-23@holly-ridge-lunch
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:HRES: Hot Dog
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\nGrab and go: Strawberry Yog
- urt Box\nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFru
- its: Sliced Pears
+SUMMARY:HRES: Hot Dog / Ch Filled Piz Sticks
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Cheese Filled Pizza Sticks
+ \nGrab and go: Strawberry Yogurt Box\nVegetables: Baked Crinkle Cut French
+  Fries\, BBQ Pinto Beans\, Marinara\nFresh Fruits: Fresh Bananas\, Fresh G
+ rapes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
