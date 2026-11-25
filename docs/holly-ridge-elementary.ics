@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-17@holly-ridge-lunch
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:HRES: Ch Quesa / Beef Tacos / Blubry Parf
-DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef & Cheddar Soft Tacos\, 
- Vanilla Yogurt & Blueberry Parfait\nGrab and go: Strawberry Banana Yogurt 
- Box\nVegetables: Ranch Style Pinto Beans\, Buttered Corn\nFruits: Mixed Fr
- uit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-18@holly-ridge-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -74,8 +62,11 @@ UID:hres-2026-11-24@holly-ridge-lunch
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:HRES: Strwbry Yogurt Box
-DESCRIPTION:Grab and go: Strawberry Yogurt Box
+SUMMARY:HRES: Ch Piz / Personal Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Personal Pepperoni Pizza\
+ nGrab and go: Strawberry Yogurt Box\nFresh Fruits: Fresh Sweet Apple Slice
+ s\nFresh Vegetables: Fresh Tossed Salad\, Fresh Baby Carrots\, Fresh Cucum
+ ber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -85,10 +76,9 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:HRES: Orange Popcrn Ckn & Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Chicken & Vegetab
- le Dumplings\, Vanilla Yogurt & Peach Parfait\nGrab and go: Strawberry Yog
- urt Box\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed C
- arrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, 
- Black Cheery
+ le Dumplings\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Grain Garl
+ ic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed Buttered Broccol
+ i\nFruits: 100% Juice Frozen Fruit Cup\, Black Cheery
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
