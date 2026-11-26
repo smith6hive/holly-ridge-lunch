@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-18@holly-ridge-lunch
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:HRMS: Ch/Pep Piz / Hmbrg/Chzbrg / Blubry Parf
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Hamburg
- er on Brioche Bun\, Cheeseburger on Brioche Bun\, Vanilla Yogurt & Fresh B
- lueberry Parfait\nVegetables: Baked Sweet Potato Fries\nFruits: Diced Peac
- hes\nGarnish: Pickle Chips\nFresh Vegetables: Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-19@holly-ridge-lunch
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
