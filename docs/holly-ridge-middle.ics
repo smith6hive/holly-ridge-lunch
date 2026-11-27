@@ -8,19 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-19@holly-ridge-lunch
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:HRMS: Ckn Filet/Spcy
-DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
- Brioche Bun\, Roasted Turkey Tenderloin with Pan Gravy\, Vanilla Yogurt & 
- Peach Parfait\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinn
- er Roll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruit
- s: Pineapple Tidbits\nCondiment: Cranberry Sauce
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120

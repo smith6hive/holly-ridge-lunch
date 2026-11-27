@@ -8,18 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-19@holly-ridge-lunch
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:HRES: Bkd Ckn Bites
-DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
- an Gravy\nGrab and go: Strawberry Banana Yogurt Box\nGrains: Whole Grain C
- ornbread Stuffing\, Garlic Butter Dinner Roll\nVegetables: Homestyle Mashe
- d Potatoes\, Savory Green Beans\nFruits: Cinnamon Baked Apple Crisp
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-20@holly-ridge-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
