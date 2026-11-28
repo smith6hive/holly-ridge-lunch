@@ -8,20 +8,6 @@ NAME:Holly Ridge Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hres-2026-11-20@holly-ridge-lunch
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:HRES: Ch/Pep Piz / Bkd Ckn Bites / Beef Nachos
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Baked C
- hicken Bites\, Beef Nachos\nGrab and go: Strawberry Banana Yogurt Box\nGra
- ins: Fresh Baked Dinner Roll\, WG Tortilla Chips\nFresh Fruits: Fresh Gala
-  Apples\, Fresh Oranges\nFruits: 100% Juice Frozen Fruit Cup\, Watermelon\
- , Diced Peaches\, Blueberry Cup\nFresh Vegetables: Fresh Tossed Salad\, Fr
- esh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hres-2026-11-23@holly-ridge-lunch
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123

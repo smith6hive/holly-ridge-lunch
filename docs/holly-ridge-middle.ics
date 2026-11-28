@@ -8,18 +8,6 @@ NAME:Holly Ridge Middle Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:hrms-2026-11-20@holly-ridge-lunch
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:HRMS: Ch/Pep Piz / Dbl Dogs / Peach Parf / Chzbrg
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Butterb
- all Double Dogs\, Vanilla Yogurt & Peach Parfait\, Cheeseburger on Brioche
-  Bun\nVegetables: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\
- , Strawberry\nFresh Vegetables: Fresh Marinated Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hrms-2026-11-23@holly-ridge-lunch
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
